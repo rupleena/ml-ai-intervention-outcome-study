@@ -1,0 +1,1201 @@
+role,seniority,company_size,work_type,weekly_hours,oncall_freq,meetings_per_day,seeks_treatment,intervention,sessions_per_week,avg_session_min,completion_rate,practice_time,weeks_of_practice,mindfulness_baseline,stress_pre,stress_post,stress_delta,stress_reduced
+Data Scientist,Senior,100-500,Remote,61,Daily,5,1,Guided Meditation,4,18,0.58,Evening,7,64,23,23,0,0
+Engineering Manager,Junior,100-500,Remote,62,Rarely,1,0,Body Scan,3,13,0.34,Night,12,45,22,19,3,1
+Designer,Junior,100-500,Remote,52,Never,1,1,Body Scan,2,19,0.46,Morning,3,52,20,16,4,1
+Product Manager,Mid-level,1-25,Hybrid,40,Rarely,1,0,Breathing Exercise,3,41,0.86,Evening,20,44,18,18,0,0
+Software Engineer,Mid-level,1-25,Hybrid,54,Weekly,6,0,Breathing Exercise,3,24,0.86,Afternoon,9,44,21,18,3,1
+Software Engineer,Senior,More than 1000,In-office,56,Rarely,9,0,Sleep Practice,4,12,0.44,Morning,14,35,22,19,3,1
+Software Engineer,Senior,26-100,In-office,45,Rarely,1,0,Sleep Practice,1,36,0.54,Evening,13,49,18,22,-4,0
+QA Engineer,Mid-level,500-1000,Hybrid,47,Rarely,5,0,Breathing Exercise,4,25,0.39,Morning,12,70,20,17,3,1
+Product Manager,Mid-level,500-1000,In-office,58,Monthly,9,0,Focus Session,3,23,0.35,Evening,1,46,23,23,0,0
+DevOps,Manager,1-25,Remote,32,Rarely,9,0,Focus Session,1,33,0.99,Morning,19,42,18,11,7,1
+Software Engineer,Mid-level,500-1000,Hybrid,56,Weekly,1,1,Guided Meditation,4,35,0.76,Night,16,56,22,18,4,1
+Engineering Manager,Mid-level,1-25,Hybrid,44,Never,8,0,Breathing Exercise,2,10,0.68,Morning,12,55,19,16,3,1
+QA Engineer,Junior,More than 1000,Remote,37,Weekly,1,0,Journaling,2,8,0.84,Morning,10,49,19,24,-5,0
+Software Engineer,Lead/Staff,26-100,Hybrid,38,Rarely,8,0,Sleep Practice,2,33,0.89,Morning,2,42,19,16,3,1
+Software Engineer,Senior,More than 1000,Remote,39,Monthly,1,0,Breathing Exercise,2,7,0.86,Night,18,56,20,20,0,0
+Software Engineer,Mid-level,100-500,Hybrid,36,Rarely,5,1,Focus Session,2,5,0.31,Evening,13,46,17,13,4,1
+Software Engineer,Junior,100-500,In-office,63,Weekly,8,0,Breathing Exercise,4,19,0.43,Evening,6,54,24,23,1,0
+Product Manager,Senior,100-500,In-office,51,Daily,6,1,Focus Session,1,25,0.76,Afternoon,12,37,23,24,-1,0
+Data Scientist,Senior,More than 1000,Hybrid,57,Daily,9,1,Breathing Exercise,7,35,0.56,Afternoon,22,39,23,22,1,0
+Software Engineer,Mid-level,500-1000,Hybrid,52,Monthly,1,0,Journaling,3,11,0.99,Morning,4,46,20,20,0,0
+Product Manager,Manager,26-100,Hybrid,48,Monthly,9,0,Guided Meditation,1,21,0.77,Evening,1,33,20,23,-3,0
+Software Engineer,Junior,100-500,Hybrid,48,Weekly,1,0,Journaling,1,23,0.97,Morning,11,41,21,24,-3,0
+Software Engineer,Mid-level,100-500,Remote,43,Weekly,3,0,Focus Session,3,43,0.44,Night,23,32,18,18,0,0
+Data Scientist,Manager,100-500,Hybrid,44,Rarely,1,1,Sleep Practice,3,7,0.9,Evening,8,30,19,13,6,1
+Data Scientist,Mid-level,26-100,Hybrid,34,Weekly,3,1,Sleep Practice,1,34,0.52,Afternoon,2,69,17,14,3,1
+Designer,Senior,100-500,In-office,57,Monthly,2,0,Body Scan,2,39,0.99,Morning,2,39,21,18,3,1
+Software Engineer,Mid-level,26-100,Hybrid,31,Rarely,2,0,Journaling,4,33,0.41,Evening,16,40,17,11,6,1
+Product Manager,Mid-level,100-500,Hybrid,37,Rarely,9,0,Breathing Exercise,1,18,0.66,Morning,1,46,19,17,2,0
+Product Manager,Manager,More than 1000,Hybrid,65,Rarely,8,1,Guided Meditation,5,39,0.85,Morning,4,34,24,24,0,0
+Software Engineer,Mid-level,More than 1000,Hybrid,48,Monthly,1,0,Breathing Exercise,3,32,0.6,Morning,6,40,19,19,0,0
+Product Manager,Lead/Staff,26-100,Hybrid,49,Rarely,4,0,Breathing Exercise,2,34,0.63,Evening,21,63,21,21,0,0
+Software Engineer,Mid-level,More than 1000,Remote,53,Never,1,0,Journaling,2,30,0.99,Evening,20,49,21,17,4,1
+Software Engineer,Mid-level,26-100,Hybrid,33,Never,1,1,Guided Meditation,1,11,0.6,Morning,14,55,18,19,-1,0
+Engineering Manager,Junior,More than 1000,In-office,34,Monthly,4,1,Body Scan,4,43,0.72,Morning,20,61,18,9,9,1
+Engineering Manager,Senior,More than 1000,Hybrid,43,Weekly,2,0,Breathing Exercise,1,35,0.34,Afternoon,15,47,20,22,-2,0
+QA Engineer,Mid-level,26-100,Remote,39,Rarely,3,0,Guided Meditation,2,9,0.89,Evening,7,43,19,14,5,1
+Software Engineer,Lead/Staff,500-1000,Hybrid,46,Never,9,1,Body Scan,3,39,0.75,Morning,7,31,21,16,5,1
+Software Engineer,Mid-level,More than 1000,In-office,51,Never,2,0,Breathing Exercise,2,18,0.58,Morning,18,41,22,18,4,1
+DevOps,Manager,100-500,Remote,60,Daily,4,1,Guided Meditation,3,40,0.31,Night,23,43,21,15,6,1
+Data Scientist,Junior,500-1000,In-office,54,Monthly,1,0,Journaling,4,31,0.71,Night,2,37,21,20,1,0
+Software Engineer,Lead/Staff,26-100,In-office,38,Monthly,2,1,Sleep Practice,3,28,0.31,Night,20,60,18,16,2,0
+Data Scientist,Senior,500-1000,Hybrid,44,Never,5,0,Sleep Practice,6,44,0.3,Evening,15,56,19,16,3,1
+Software Engineer,Senior,1-25,In-office,41,Weekly,1,1,Breathing Exercise,4,33,0.73,Morning,1,55,20,16,4,1
+Engineering Manager,Lead/Staff,1-25,In-office,38,Monthly,7,1,Breathing Exercise,2,26,0.43,Morning,21,44,18,22,-4,0
+Software Engineer,Senior,More than 1000,In-office,36,Rarely,4,1,Guided Meditation,2,12,0.43,Morning,17,35,19,18,1,0
+DevOps,Senior,More than 1000,Hybrid,62,Never,6,1,Sleep Practice,2,19,0.76,Morning,20,58,22,18,4,1
+Software Engineer,Junior,100-500,Remote,47,Monthly,8,1,Breathing Exercise,3,9,0.34,Night,13,48,22,21,1,0
+Product Manager,Junior,500-1000,Remote,45,Weekly,6,0,Body Scan,2,8,0.52,Evening,12,53,20,13,7,1
+Product Manager,Manager,1-25,Hybrid,51,Daily,2,1,Breathing Exercise,6,15,0.4,Evening,22,51,21,18,3,1
+Software Engineer,Senior,More than 1000,Remote,52,Weekly,1,1,Sleep Practice,3,22,0.71,Morning,15,48,19,16,3,1
+Engineering Manager,Lead/Staff,500-1000,Hybrid,57,Weekly,8,0,Focus Session,2,34,0.76,Night,5,65,23,18,5,1
+Designer,Mid-level,More than 1000,In-office,40,Never,8,1,Sleep Practice,3,19,0.8,Evening,7,38,19,17,2,0
+Engineering Manager,Junior,More than 1000,In-office,51,Monthly,9,1,Body Scan,2,10,0.48,Morning,8,42,23,17,6,1
+QA Engineer,Junior,1-25,Hybrid,39,Weekly,6,0,Guided Meditation,4,20,0.36,Night,23,61,19,15,4,1
+Product Manager,Senior,1-25,In-office,45,Rarely,1,0,Body Scan,3,44,0.36,Morning,14,46,19,15,4,1
+Engineering Manager,Mid-level,More than 1000,In-office,48,Daily,9,0,Focus Session,1,13,0.6,Morning,4,44,21,23,-2,0
+Software Engineer,Mid-level,26-100,Hybrid,48,Rarely,3,0,Focus Session,1,38,0.96,Evening,21,42,19,14,5,1
+Software Engineer,Mid-level,More than 1000,Remote,48,Rarely,6,0,Breathing Exercise,5,31,0.45,Evening,14,52,22,21,1,0
+Software Engineer,Junior,More than 1000,Hybrid,54,Weekly,9,0,Breathing Exercise,3,17,0.48,Morning,10,43,24,23,1,0
+Software Engineer,Senior,100-500,Hybrid,42,Weekly,3,0,Sleep Practice,6,40,0.37,Morning,22,42,19,13,6,1
+Data Scientist,Mid-level,100-500,Hybrid,49,Weekly,5,0,Journaling,1,31,0.72,Night,16,52,23,23,0,0
+Software Engineer,Lead/Staff,100-500,Hybrid,40,Never,5,1,Body Scan,2,13,0.78,Evening,11,46,19,16,3,1
+QA Engineer,Mid-level,26-100,Remote,73,Weekly,7,0,Sleep Practice,1,9,0.75,Evening,22,35,27,27,0,0
+Data Scientist,Mid-level,26-100,Hybrid,39,Monthly,4,0,Journaling,3,26,0.9,Morning,14,45,19,17,2,0
+Software Engineer,Junior,More than 1000,In-office,41,Monthly,4,0,Sleep Practice,2,35,0.64,Morning,14,59,19,18,1,0
+Product Manager,Junior,100-500,Hybrid,55,Daily,7,0,Focus Session,1,7,0.39,Morning,2,53,23,26,-3,0
+Software Engineer,Mid-level,26-100,In-office,43,Weekly,9,1,Breathing Exercise,3,34,0.5,Morning,22,60,21,17,4,1
+QA Engineer,Mid-level,1-25,In-office,55,Never,4,1,Breathing Exercise,3,25,0.76,Morning,13,38,20,16,4,1
+Software Engineer,Senior,More than 1000,In-office,48,Weekly,4,1,Sleep Practice,2,39,0.73,Morning,3,56,21,22,-1,0
+Engineering Manager,Mid-level,500-1000,In-office,43,Never,6,0,Breathing Exercise,3,10,0.67,Evening,18,39,21,20,1,0
+Designer,Senior,More than 1000,In-office,40,Never,6,1,Guided Meditation,4,32,0.78,Morning,22,33,18,13,5,1
+Software Engineer,Lead/Staff,500-1000,Hybrid,40,Monthly,7,0,Sleep Practice,2,36,0.75,Evening,4,37,19,19,0,0
+Software Engineer,Senior,100-500,Remote,43,Daily,1,0,Focus Session,2,41,0.92,Morning,21,46,18,16,2,0
+QA Engineer,Junior,500-1000,Hybrid,45,Rarely,3,0,Sleep Practice,2,29,0.71,Afternoon,21,55,19,20,-1,0
+DevOps,Mid-level,100-500,Hybrid,40,Weekly,9,0,Sleep Practice,4,36,0.85,Morning,19,48,20,18,2,0
+Designer,Junior,1-25,Remote,46,Rarely,6,0,Breathing Exercise,4,39,0.47,Afternoon,16,43,22,22,0,0
+Designer,Mid-level,500-1000,Remote,37,Weekly,6,0,Focus Session,2,26,0.77,Morning,4,35,19,20,-1,0
+Software Engineer,Manager,More than 1000,In-office,54,Monthly,5,1,Sleep Practice,2,28,0.93,Night,19,52,21,22,-1,0
+Data Scientist,Junior,100-500,In-office,56,Weekly,3,0,Breathing Exercise,5,43,0.57,Evening,23,55,22,17,5,1
+Software Engineer,Mid-level,More than 1000,In-office,41,Rarely,5,0,Body Scan,7,34,0.85,Afternoon,15,48,17,17,0,0
+QA Engineer,Senior,26-100,Hybrid,40,Weekly,1,0,Focus Session,3,36,0.81,Morning,1,34,16,14,2,0
+DevOps,Senior,100-500,Remote,49,Daily,3,1,Journaling,7,35,0.34,Evening,16,53,19,17,2,0
+Software Engineer,Senior,500-1000,Remote,58,Weekly,4,0,Guided Meditation,3,27,0.71,Evening,15,57,23,17,6,1
+Software Engineer,Junior,100-500,Remote,60,Monthly,5,1,Journaling,4,44,0.39,Morning,16,60,23,19,4,1
+Software Engineer,Mid-level,More than 1000,Remote,34,Daily,9,1,Focus Session,2,37,0.98,Evening,22,41,20,22,-2,0
+Software Engineer,Senior,1-25,Remote,56,Never,4,0,Sleep Practice,2,29,0.87,Evening,20,49,20,20,0,0
+Designer,Junior,100-500,In-office,46,Weekly,3,0,Breathing Exercise,1,40,0.38,Evening,1,40,20,20,0,0
+DevOps,Mid-level,500-1000,Hybrid,47,Daily,1,0,Focus Session,4,28,0.39,Evening,17,36,19,19,0,0
+QA Engineer,Junior,26-100,Remote,52,Never,6,1,Guided Meditation,6,35,0.72,Night,5,61,21,16,5,1
+Data Scientist,Junior,1-25,Remote,43,Monthly,7,0,Focus Session,3,43,0.54,Night,5,51,19,17,2,0
+Software Engineer,Mid-level,26-100,Hybrid,57,Rarely,8,0,Breathing Exercise,2,17,0.32,Afternoon,7,58,22,21,1,0
+DevOps,Junior,100-500,Remote,60,Monthly,1,0,Journaling,1,14,0.68,Evening,13,33,22,19,3,1
+Designer,Senior,More than 1000,In-office,60,Weekly,4,1,Body Scan,2,27,0.57,Evening,12,48,22,25,-3,0
+Product Manager,Senior,More than 1000,Hybrid,30,Rarely,5,0,Journaling,2,22,0.37,Evening,4,50,15,14,1,0
+Designer,Lead/Staff,500-1000,Hybrid,45,Monthly,2,0,Breathing Exercise,3,36,0.86,Night,4,37,21,19,2,0
+Data Scientist,Mid-level,More than 1000,Remote,30,Rarely,1,1,Breathing Exercise,6,37,0.94,Morning,23,60,16,12,4,1
+Product Manager,Junior,1-25,Remote,40,Monthly,8,1,Guided Meditation,1,40,0.83,Afternoon,21,43,18,26,-8,0
+Data Scientist,Junior,More than 1000,Hybrid,30,Rarely,6,1,Focus Session,1,32,0.88,Morning,21,50,18,15,3,1
+Software Engineer,Senior,500-1000,Hybrid,51,Daily,5,0,Focus Session,3,20,0.45,Morning,6,39,22,20,2,0
+Software Engineer,Senior,100-500,Hybrid,49,Never,9,1,Journaling,2,20,0.48,Morning,15,33,21,23,-2,0
+Software Engineer,Junior,100-500,Remote,43,Daily,2,1,Body Scan,5,22,0.45,Evening,21,54,21,25,-4,0
+DevOps,Manager,More than 1000,Hybrid,40,Monthly,8,0,Body Scan,2,12,0.84,Morning,19,49,19,19,0,0
+Software Engineer,Junior,26-100,Hybrid,50,Rarely,9,1,Guided Meditation,2,20,0.96,Evening,6,47,22,21,1,0
+Product Manager,Senior,100-500,In-office,38,Weekly,1,0,Breathing Exercise,2,15,0.8,Evening,12,42,19,18,1,0
+Engineering Manager,Senior,More than 1000,Remote,37,Monthly,7,1,Guided Meditation,1,10,0.92,Morning,14,49,20,24,-4,0
+Software Engineer,Lead/Staff,500-1000,Remote,36,Monthly,8,0,Focus Session,3,5,0.75,Morning,18,58,17,14,3,1
+Data Scientist,Senior,More than 1000,Hybrid,45,Never,3,1,Sleep Practice,1,16,0.57,Evening,12,38,22,18,4,1
+Designer,Lead/Staff,100-500,Hybrid,42,Monthly,4,0,Sleep Practice,2,42,0.6,Evening,15,51,21,17,4,1
+Software Engineer,Mid-level,500-1000,Hybrid,44,Rarely,3,1,Sleep Practice,3,32,0.35,Night,19,47,20,15,5,1
+Software Engineer,Lead/Staff,More than 1000,Hybrid,52,Never,7,0,Breathing Exercise,1,21,0.32,Night,8,43,20,23,-3,0
+Software Engineer,Junior,1-25,Hybrid,56,Monthly,9,1,Guided Meditation,1,5,0.79,Night,9,29,22,19,3,1
+Software Engineer,Lead/Staff,500-1000,In-office,60,Never,3,1,Journaling,3,36,0.61,Evening,5,45,22,24,-2,0
+Engineering Manager,Senior,1-25,Hybrid,48,Rarely,6,0,Focus Session,3,12,0.69,Night,5,52,21,17,4,1
+QA Engineer,Lead/Staff,26-100,In-office,50,Never,8,1,Sleep Practice,6,44,0.69,Evening,6,48,21,21,0,0
+DevOps,Mid-level,500-1000,Hybrid,49,Never,6,1,Body Scan,1,28,0.49,Night,23,31,21,19,2,0
+QA Engineer,Senior,1-25,In-office,32,Rarely,2,0,Guided Meditation,1,14,0.63,Morning,3,57,17,11,6,1
+QA Engineer,Senior,100-500,In-office,44,Daily,7,0,Focus Session,1,43,0.63,Night,5,61,18,15,3,1
+Software Engineer,Senior,100-500,Remote,44,Never,2,0,Focus Session,2,43,0.57,Afternoon,1,44,19,21,-2,0
+QA Engineer,Junior,26-100,In-office,42,Weekly,2,0,Body Scan,3,14,0.87,Evening,11,68,18,19,-1,0
+Product Manager,Junior,500-1000,Remote,47,Never,2,0,Body Scan,4,40,0.62,Morning,21,37,20,15,5,1
+QA Engineer,Mid-level,500-1000,In-office,45,Daily,1,0,Body Scan,3,29,0.72,Afternoon,20,32,21,15,6,1
+QA Engineer,Junior,500-1000,Hybrid,38,Never,1,0,Sleep Practice,2,14,0.93,Morning,1,35,17,14,3,1
+Software Engineer,Lead/Staff,26-100,Remote,46,Daily,7,0,Sleep Practice,3,23,0.91,Morning,7,47,20,20,0,0
+Software Engineer,Mid-level,500-1000,Hybrid,41,Weekly,5,0,Guided Meditation,5,19,0.92,Morning,15,27,19,17,2,0
+Software Engineer,Manager,100-500,In-office,30,Never,3,1,Body Scan,2,20,0.49,Evening,17,42,16,13,3,1
+Data Scientist,Mid-level,1-25,Remote,34,Daily,1,1,Journaling,3,6,0.32,Morning,8,74,18,17,1,0
+QA Engineer,Junior,100-500,Hybrid,48,Monthly,6,0,Focus Session,6,33,0.48,Morning,2,30,22,23,-1,0
+QA Engineer,Lead/Staff,100-500,Hybrid,57,Rarely,1,1,Body Scan,4,8,0.5,Morning,13,40,23,18,5,1
+Software Engineer,Senior,1-25,In-office,30,Weekly,9,1,Focus Session,4,33,0.94,Evening,12,35,17,9,8,1
+Product Manager,Mid-level,100-500,Hybrid,39,Daily,2,1,Breathing Exercise,2,35,0.75,Morning,5,42,20,14,6,1
+Data Scientist,Senior,26-100,Remote,51,Monthly,1,0,Breathing Exercise,2,21,0.36,Morning,13,42,21,26,-5,0
+Software Engineer,Senior,1-25,Remote,55,Rarely,7,0,Body Scan,1,14,0.39,Afternoon,6,38,24,20,4,1
+Software Engineer,Mid-level,100-500,Hybrid,43,Weekly,6,1,Focus Session,3,31,0.41,Evening,15,43,19,16,3,1
+Software Engineer,Manager,More than 1000,Hybrid,41,Weekly,6,1,Breathing Exercise,1,19,0.74,Morning,23,51,18,18,0,0
+Engineering Manager,Manager,100-500,In-office,58,Daily,5,1,Body Scan,4,35,0.81,Morning,22,59,23,27,-4,0
+Software Engineer,Senior,26-100,Remote,54,Weekly,4,1,Focus Session,4,25,0.9,Morning,21,42,25,24,1,0
+Product Manager,Junior,500-1000,Hybrid,55,Rarely,4,0,Body Scan,3,30,0.96,Night,22,45,20,17,3,1
+DevOps,Senior,100-500,Remote,43,Daily,3,0,Sleep Practice,1,42,0.44,Afternoon,11,50,20,23,-3,0
+Data Scientist,Junior,500-1000,Remote,57,Never,8,0,Focus Session,1,40,0.52,Evening,4,33,20,16,4,1
+Engineering Manager,Junior,More than 1000,Hybrid,30,Rarely,7,0,Breathing Exercise,4,21,0.47,Morning,1,43,19,13,6,1
+Engineering Manager,Mid-level,100-500,Hybrid,57,Monthly,9,1,Body Scan,3,7,0.55,Afternoon,15,40,21,18,3,1
+Software Engineer,Mid-level,1-25,Hybrid,46,Monthly,1,0,Breathing Exercise,4,18,0.94,Morning,12,55,17,19,-2,0
+Data Scientist,Lead/Staff,500-1000,In-office,48,Never,7,0,Body Scan,2,17,0.7,Morning,9,63,21,20,1,0
+Software Engineer,Senior,More than 1000,Hybrid,38,Weekly,4,1,Guided Meditation,3,31,0.82,Afternoon,11,37,19,15,4,1
+Software Engineer,Senior,1-25,In-office,31,Monthly,7,0,Breathing Exercise,4,5,0.64,Afternoon,5,58,19,15,4,1
+Software Engineer,Mid-level,1-25,In-office,48,Monthly,1,1,Breathing Exercise,3,21,0.32,Morning,7,30,21,22,-1,0
+Product Manager,Mid-level,1-25,Hybrid,52,Weekly,5,1,Journaling,3,38,0.34,Evening,8,47,20,21,-1,0
+Product Manager,Mid-level,1-25,In-office,53,Monthly,3,1,Sleep Practice,4,18,0.68,Night,1,48,21,22,-1,0
+Software Engineer,Manager,100-500,Hybrid,52,Never,5,0,Breathing Exercise,2,21,0.8,Afternoon,1,30,20,20,0,0
+Software Engineer,Junior,100-500,Remote,50,Rarely,4,0,Focus Session,1,7,0.45,Evening,3,37,19,20,-1,0
+Engineering Manager,Lead/Staff,100-500,Hybrid,39,Daily,2,0,Body Scan,3,38,0.81,Night,8,36,19,19,0,0
+Software Engineer,Senior,More than 1000,Remote,54,Never,4,0,Guided Meditation,1,44,0.87,Evening,11,32,22,21,1,0
+Software Engineer,Mid-level,More than 1000,Hybrid,38,Monthly,3,0,Focus Session,4,29,0.59,Afternoon,1,18,18,17,1,0
+Data Scientist,Senior,More than 1000,Hybrid,57,Monthly,1,1,Focus Session,4,6,0.82,Evening,14,43,21,16,5,1
+Engineering Manager,Mid-level,26-100,Remote,46,Monthly,8,0,Focus Session,5,38,0.58,Morning,1,44,20,24,-4,0
+Software Engineer,Lead/Staff,More than 1000,Remote,47,Never,5,1,Focus Session,3,30,0.77,Evening,6,44,19,14,5,1
+DevOps,Manager,100-500,In-office,55,Monthly,4,0,Guided Meditation,1,35,0.83,Morning,21,53,21,22,-1,0
+Designer,Mid-level,100-500,Hybrid,56,Monthly,5,1,Journaling,2,13,0.99,Morning,6,26,21,15,6,1
+Software Engineer,Mid-level,26-100,Remote,54,Daily,4,1,Sleep Practice,4,34,0.54,Afternoon,3,41,22,19,3,1
+Designer,Senior,26-100,Hybrid,40,Rarely,3,0,Breathing Exercise,1,24,0.59,Morning,10,71,18,15,3,1
+Data Scientist,Manager,More than 1000,Hybrid,54,Monthly,5,0,Focus Session,3,25,0.42,Evening,12,54,22,21,1,0
+DevOps,Mid-level,500-1000,Hybrid,40,Monthly,4,1,Breathing Exercise,4,33,0.44,Afternoon,10,54,18,10,8,1
+DevOps,Senior,26-100,In-office,54,Monthly,1,1,Breathing Exercise,2,29,0.79,Evening,22,35,22,21,1,0
+Product Manager,Senior,1-25,Hybrid,34,Weekly,3,1,Focus Session,2,42,0.94,Morning,2,43,17,11,6,1
+Software Engineer,Senior,100-500,Remote,46,Rarely,8,0,Journaling,3,29,0.58,Morning,22,22,21,21,0,0
+QA Engineer,Junior,1-25,In-office,40,Rarely,7,0,Breathing Exercise,5,13,0.43,Evening,13,51,18,13,5,1
+Software Engineer,Senior,100-500,In-office,55,Weekly,2,1,Body Scan,2,43,0.5,Night,16,59,22,15,7,1
+Software Engineer,Manager,100-500,Remote,57,Monthly,1,1,Breathing Exercise,6,30,0.62,Morning,13,31,20,20,0,0
+Software Engineer,Junior,26-100,Remote,49,Monthly,3,0,Sleep Practice,3,41,0.5,Morning,4,33,20,18,2,0
+Product Manager,Mid-level,26-100,Remote,48,Rarely,5,1,Focus Session,7,20,0.46,Night,4,45,20,20,0,0
+DevOps,Manager,1-25,Hybrid,53,Rarely,1,0,Guided Meditation,1,41,0.82,Morning,11,47,21,19,2,0
+Software Engineer,Junior,100-500,Hybrid,57,Never,3,0,Breathing Exercise,1,16,0.31,Night,23,40,20,13,7,1
+Product Manager,Lead/Staff,1-25,Hybrid,47,Never,3,0,Journaling,4,28,0.68,Evening,14,37,20,21,-1,0
+Software Engineer,Mid-level,500-1000,In-office,43,Monthly,5,0,Body Scan,5,30,0.86,Afternoon,3,37,19,16,3,1
+DevOps,Mid-level,1-25,In-office,53,Daily,3,0,Body Scan,2,24,0.49,Morning,19,45,21,23,-2,0
+Software Engineer,Lead/Staff,More than 1000,Remote,30,Rarely,9,0,Guided Meditation,4,13,0.72,Morning,22,51,17,14,3,1
+DevOps,Mid-level,1-25,Remote,55,Rarely,1,0,Sleep Practice,5,27,0.77,Morning,1,45,21,17,4,1
+Data Scientist,Senior,More than 1000,Hybrid,41,Never,4,1,Guided Meditation,1,43,0.76,Night,5,44,19,19,0,0
+Engineering Manager,Mid-level,More than 1000,Remote,45,Monthly,4,1,Sleep Practice,3,33,0.61,Evening,17,27,22,16,6,1
+Software Engineer,Senior,More than 1000,Hybrid,55,Never,1,1,Breathing Exercise,5,35,0.54,Evening,1,54,20,16,4,1
+Software Engineer,Junior,500-1000,In-office,43,Daily,2,1,Focus Session,2,23,0.89,Evening,19,44,20,23,-3,0
+Software Engineer,Mid-level,1-25,Remote,53,Weekly,1,0,Journaling,2,24,0.83,Morning,19,41,24,22,2,0
+Engineering Manager,Manager,1-25,Hybrid,57,Daily,6,1,Body Scan,4,27,0.52,Evening,4,48,23,18,5,1
+QA Engineer,Mid-level,500-1000,In-office,48,Daily,3,1,Guided Meditation,2,31,0.37,Afternoon,19,37,22,19,3,1
+Software Engineer,Senior,100-500,Hybrid,50,Monthly,7,0,Journaling,1,34,0.35,Evening,6,41,22,21,1,0
+DevOps,Mid-level,26-100,Remote,46,Monthly,5,0,Sleep Practice,6,25,0.37,Morning,15,46,23,22,1,0
+QA Engineer,Senior,1-25,Hybrid,48,Rarely,9,0,Focus Session,3,39,0.71,Evening,4,38,20,19,1,0
+Product Manager,Junior,26-100,Remote,37,Monthly,7,1,Body Scan,4,11,0.34,Night,1,29,17,15,2,0
+Product Manager,Manager,500-1000,In-office,44,Daily,4,0,Body Scan,4,26,0.54,Afternoon,17,27,19,25,-6,0
+Software Engineer,Mid-level,100-500,Remote,35,Never,5,1,Sleep Practice,1,14,0.83,Morning,11,49,18,15,3,1
+Software Engineer,Mid-level,100-500,Hybrid,39,Daily,5,1,Focus Session,1,27,0.51,Evening,17,45,18,14,4,1
+QA Engineer,Junior,100-500,Hybrid,30,Rarely,5,1,Body Scan,2,19,0.83,Morning,23,44,15,15,0,0
+Engineering Manager,Junior,500-1000,In-office,49,Daily,9,1,Focus Session,2,34,0.82,Evening,1,33,21,20,1,0
+DevOps,Senior,More than 1000,Remote,62,Daily,3,1,Body Scan,3,38,0.47,Night,9,45,24,22,2,0
+Software Engineer,Mid-level,More than 1000,Remote,43,Weekly,6,0,Breathing Exercise,3,17,0.81,Afternoon,14,41,19,15,4,1
+Software Engineer,Lead/Staff,26-100,Remote,56,Weekly,8,0,Sleep Practice,3,8,0.82,Afternoon,15,39,24,23,1,0
+Designer,Mid-level,More than 1000,Remote,57,Monthly,9,1,Focus Session,2,22,0.58,Evening,1,44,22,20,2,0
+QA Engineer,Mid-level,More than 1000,Remote,36,Weekly,7,0,Journaling,2,27,0.45,Morning,2,48,19,22,-3,0
+QA Engineer,Senior,100-500,Hybrid,38,Daily,3,0,Breathing Exercise,3,37,0.66,Morning,18,62,18,19,-1,0
+Designer,Senior,100-500,Remote,56,Weekly,1,0,Journaling,3,38,0.94,Night,18,51,22,19,3,1
+DevOps,Junior,26-100,Remote,46,Weekly,4,1,Sleep Practice,1,38,0.75,Evening,6,54,21,21,0,0
+Software Engineer,Junior,1-25,In-office,35,Weekly,6,0,Body Scan,3,40,0.42,Morning,20,56,20,23,-3,0
+Software Engineer,Junior,26-100,Remote,41,Weekly,3,1,Journaling,1,39,0.78,Morning,8,37,20,18,2,0
+QA Engineer,Senior,26-100,Remote,51,Monthly,1,0,Breathing Exercise,2,21,0.6,Evening,1,42,20,23,-3,0
+Product Manager,Senior,500-1000,Remote,40,Weekly,6,0,Focus Session,4,32,0.71,Evening,15,36,20,10,10,1
+Software Engineer,Mid-level,500-1000,In-office,30,Monthly,1,1,Guided Meditation,1,18,0.81,Evening,10,38,18,23,-5,0
+Software Engineer,Lead/Staff,26-100,Remote,44,Never,9,0,Journaling,3,38,0.66,Morning,4,41,22,20,2,0
+DevOps,Lead/Staff,26-100,In-office,45,Monthly,1,1,Guided Meditation,2,15,0.87,Night,10,38,19,21,-2,0
+Software Engineer,Senior,26-100,In-office,47,Monthly,6,1,Sleep Practice,1,17,0.81,Evening,11,47,20,16,4,1
+Software Engineer,Lead/Staff,More than 1000,Remote,58,Never,1,1,Journaling,1,37,0.73,Evening,5,49,23,23,0,0
+Product Manager,Mid-level,500-1000,In-office,47,Never,7,0,Journaling,6,6,0.41,Evening,9,32,18,13,5,1
+DevOps,Junior,26-100,Remote,49,Monthly,3,1,Focus Session,3,38,0.89,Morning,5,42,20,16,4,1
+DevOps,Mid-level,100-500,Remote,56,Never,6,1,Body Scan,7,33,0.96,Night,11,42,22,22,0,0
+Software Engineer,Junior,100-500,In-office,47,Rarely,7,1,Breathing Exercise,3,41,0.4,Morning,3,30,22,23,-1,0
+DevOps,Senior,More than 1000,Hybrid,66,Weekly,1,0,Breathing Exercise,3,8,0.64,Morning,4,37,21,21,0,0
+Software Engineer,Manager,More than 1000,Hybrid,36,Daily,1,0,Breathing Exercise,2,16,0.48,Evening,10,54,17,16,1,0
+Software Engineer,Junior,1-25,Remote,39,Weekly,5,1,Sleep Practice,2,30,0.83,Evening,7,54,17,16,1,0
+Designer,Junior,1-25,Hybrid,53,Daily,6,1,Body Scan,2,32,0.81,Evening,1,29,23,20,3,1
+DevOps,Mid-level,1-25,In-office,58,Weekly,9,0,Guided Meditation,2,7,0.4,Evening,6,50,23,22,1,0
+QA Engineer,Manager,More than 1000,Remote,45,Rarely,1,0,Breathing Exercise,3,24,0.91,Afternoon,8,30,21,21,0,0
+DevOps,Mid-level,More than 1000,Remote,38,Weekly,4,0,Guided Meditation,1,14,0.43,Night,17,41,19,21,-2,0
+Product Manager,Senior,More than 1000,Remote,63,Weekly,8,0,Body Scan,2,22,0.86,Morning,7,44,26,28,-2,0
+Software Engineer,Junior,100-500,Remote,40,Monthly,9,0,Sleep Practice,2,31,0.62,Night,1,53,19,17,2,0
+Data Scientist,Junior,More than 1000,In-office,50,Never,3,0,Body Scan,2,35,0.53,Morning,9,43,20,19,1,0
+Software Engineer,Manager,100-500,Hybrid,59,Weekly,2,1,Focus Session,3,31,0.41,Evening,11,35,23,16,7,1
+Software Engineer,Manager,1-25,In-office,43,Never,4,0,Breathing Exercise,5,5,0.42,Morning,19,33,18,15,3,1
+Engineering Manager,Junior,1-25,Remote,41,Weekly,2,1,Sleep Practice,2,10,0.76,Evening,2,47,19,17,2,0
+Data Scientist,Manager,1-25,Hybrid,42,Rarely,1,0,Focus Session,1,15,0.69,Night,23,39,19,23,-4,0
+QA Engineer,Senior,26-100,Remote,55,Monthly,3,0,Breathing Exercise,2,38,0.39,Afternoon,11,41,21,24,-3,0
+DevOps,Lead/Staff,26-100,Remote,57,Monthly,7,0,Body Scan,5,43,0.38,Evening,3,55,22,24,-2,0
+Designer,Mid-level,500-1000,Remote,47,Never,1,0,Body Scan,1,24,0.35,Evening,17,49,20,20,0,0
+Product Manager,Senior,500-1000,Remote,64,Monthly,2,1,Journaling,3,25,0.82,Evening,10,61,23,26,-3,0
+Product Manager,Mid-level,500-1000,Hybrid,47,Weekly,1,1,Journaling,3,25,0.8,Night,3,35,19,21,-2,0
+Data Scientist,Senior,26-100,In-office,59,Weekly,8,0,Body Scan,1,22,0.34,Afternoon,22,38,23,20,3,1
+Software Engineer,Junior,26-100,Hybrid,43,Daily,5,0,Body Scan,2,25,0.69,Morning,3,47,19,21,-2,0
+Designer,Junior,500-1000,Remote,68,Monthly,8,0,Guided Meditation,2,23,0.36,Morning,21,63,24,23,1,0
+Software Engineer,Mid-level,500-1000,Remote,61,Weekly,3,1,Guided Meditation,5,8,0.93,Morning,7,37,21,18,3,1
+Software Engineer,Senior,More than 1000,Remote,46,Rarely,7,1,Focus Session,3,17,0.93,Morning,2,45,21,17,4,1
+DevOps,Mid-level,500-1000,Hybrid,60,Rarely,8,0,Journaling,3,22,0.79,Evening,1,58,24,22,2,0
+Software Engineer,Senior,More than 1000,In-office,59,Rarely,6,1,Journaling,3,33,0.95,Morning,7,45,24,22,2,0
+Engineering Manager,Manager,100-500,In-office,61,Monthly,7,1,Body Scan,3,29,0.87,Morning,20,55,23,18,5,1
+Engineering Manager,Junior,26-100,Remote,30,Rarely,2,0,Body Scan,3,17,0.88,Morning,11,65,18,14,4,1
+Engineering Manager,Senior,500-1000,Hybrid,53,Never,8,0,Focus Session,1,31,0.7,Evening,23,48,21,17,4,1
+Data Scientist,Mid-level,26-100,Hybrid,52,Weekly,5,1,Sleep Practice,2,23,0.51,Evening,6,50,20,26,-6,0
+Software Engineer,Lead/Staff,26-100,Hybrid,51,Weekly,7,1,Sleep Practice,1,5,0.45,Afternoon,23,52,21,20,1,0
+Engineering Manager,Junior,26-100,Hybrid,49,Monthly,1,0,Sleep Practice,3,42,0.53,Night,4,36,20,19,1,0
+Data Scientist,Senior,100-500,Hybrid,49,Never,5,0,Journaling,1,23,0.74,Morning,19,30,21,20,1,0
+Engineering Manager,Lead/Staff,1-25,Hybrid,59,Monthly,1,0,Guided Meditation,3,5,0.42,Night,21,47,23,21,2,0
+Engineering Manager,Manager,500-1000,Remote,52,Monthly,8,0,Sleep Practice,2,44,0.48,Evening,19,39,22,22,0,0
+QA Engineer,Senior,1-25,In-office,49,Weekly,4,1,Breathing Exercise,6,21,0.63,Morning,14,56,23,18,5,1
+Software Engineer,Mid-level,1-25,Remote,57,Rarely,4,0,Focus Session,2,25,0.46,Evening,3,48,22,23,-1,0
+Data Scientist,Senior,1-25,Hybrid,51,Weekly,2,1,Sleep Practice,2,26,0.71,Evening,4,55,21,21,0,0
+QA Engineer,Lead/Staff,26-100,Hybrid,52,Daily,5,1,Breathing Exercise,5,19,0.95,Afternoon,8,33,22,16,6,1
+Software Engineer,Senior,More than 1000,Hybrid,64,Rarely,1,0,Sleep Practice,2,43,0.82,Night,18,55,23,18,5,1
+Software Engineer,Junior,26-100,In-office,43,Daily,9,0,Guided Meditation,6,43,0.77,Morning,4,22,21,19,2,0
+Product Manager,Manager,26-100,In-office,33,Monthly,5,0,Guided Meditation,1,36,0.71,Morning,11,34,17,18,-1,0
+Engineering Manager,Senior,1-25,In-office,48,Rarely,6,1,Sleep Practice,2,8,0.64,Morning,16,51,21,24,-3,0
+DevOps,Senior,26-100,Hybrid,49,Monthly,2,0,Breathing Exercise,3,36,0.43,Morning,3,40,23,22,1,0
+Product Manager,Mid-level,1-25,Hybrid,53,Never,1,1,Focus Session,5,8,0.93,Morning,7,41,20,16,4,1
+Software Engineer,Senior,More than 1000,Hybrid,48,Never,4,1,Breathing Exercise,2,5,0.47,Night,2,46,20,21,-1,0
+Product Manager,Mid-level,500-1000,In-office,54,Monthly,7,0,Focus Session,6,37,0.36,Morning,1,59,21,19,2,0
+Engineering Manager,Senior,1-25,Hybrid,70,Weekly,6,1,Sleep Practice,3,11,0.83,Afternoon,1,26,26,27,-1,0
+Software Engineer,Junior,More than 1000,In-office,54,Daily,1,1,Focus Session,4,13,0.42,Evening,6,57,22,26,-4,0
+Product Manager,Senior,500-1000,In-office,56,Weekly,1,0,Body Scan,2,5,0.56,Night,19,58,20,18,2,0
+QA Engineer,Manager,100-500,Hybrid,46,Never,8,0,Journaling,2,20,0.32,Night,7,40,19,17,2,0
+Designer,Junior,1-25,Remote,35,Weekly,4,1,Journaling,5,22,0.4,Evening,5,38,16,14,2,0
+DevOps,Manager,1-25,Remote,30,Weekly,5,1,Guided Meditation,6,10,0.42,Night,21,44,19,11,8,1
+DevOps,Mid-level,100-500,In-office,42,Weekly,7,0,Body Scan,3,6,0.34,Evening,18,38,19,18,1,0
+Data Scientist,Lead/Staff,100-500,Remote,30,Weekly,8,0,Journaling,1,13,0.76,Night,13,48,18,18,0,0
+Software Engineer,Lead/Staff,1-25,In-office,52,Daily,7,0,Sleep Practice,1,8,0.89,Evening,1,50,22,15,7,1
+QA Engineer,Senior,100-500,Hybrid,44,Monthly,2,1,Focus Session,3,27,0.56,Morning,10,29,20,23,-3,0
+QA Engineer,Senior,26-100,Hybrid,35,Weekly,4,0,Focus Session,1,12,0.91,Afternoon,9,36,19,20,-1,0
+QA Engineer,Lead/Staff,500-1000,In-office,48,Rarely,1,0,Breathing Exercise,2,43,0.45,Evening,17,33,20,17,3,1
+Engineering Manager,Mid-level,500-1000,Hybrid,40,Daily,9,1,Breathing Exercise,2,29,0.53,Afternoon,1,47,19,15,4,1
+Product Manager,Mid-level,500-1000,Hybrid,51,Rarely,3,0,Focus Session,4,20,0.41,Morning,1,54,21,17,4,1
+Product Manager,Senior,26-100,Hybrid,53,Never,3,1,Sleep Practice,1,39,0.73,Evening,7,34,22,24,-2,0
+Designer,Lead/Staff,100-500,Remote,41,Never,9,0,Focus Session,3,21,0.59,Night,4,54,20,13,7,1
+DevOps,Senior,More than 1000,In-office,45,Weekly,3,1,Breathing Exercise,3,22,0.73,Morning,23,36,19,16,3,1
+DevOps,Lead/Staff,100-500,Remote,49,Monthly,8,0,Journaling,3,31,0.83,Evening,21,52,20,21,-1,0
+Designer,Mid-level,1-25,In-office,34,Monthly,2,1,Guided Meditation,2,19,0.68,Evening,12,42,19,19,0,0
+QA Engineer,Lead/Staff,500-1000,In-office,49,Daily,3,1,Breathing Exercise,2,21,0.74,Night,16,41,23,22,1,0
+Software Engineer,Junior,100-500,Remote,34,Daily,2,0,Sleep Practice,3,9,0.95,Night,14,56,18,10,8,1
+Data Scientist,Senior,More than 1000,Hybrid,52,Rarely,1,0,Journaling,4,20,0.51,Evening,23,63,20,17,3,1
+Software Engineer,Junior,1-25,Hybrid,43,Rarely,2,0,Journaling,3,19,0.55,Evening,10,26,19,11,8,1
+Product Manager,Mid-level,26-100,Remote,34,Weekly,8,0,Journaling,6,38,0.8,Morning,14,51,19,13,6,1
+Software Engineer,Mid-level,26-100,In-office,42,Daily,9,1,Body Scan,4,23,0.73,Evening,7,47,19,21,-2,0
+Data Scientist,Mid-level,More than 1000,Remote,42,Monthly,2,1,Body Scan,4,12,0.42,Evening,4,52,19,13,6,1
+Product Manager,Senior,1-25,Remote,57,Weekly,7,0,Journaling,1,14,0.56,Night,2,31,22,25,-3,0
+Software Engineer,Mid-level,500-1000,Hybrid,49,Rarely,5,1,Sleep Practice,2,9,0.63,Evening,18,34,21,22,-1,0
+Product Manager,Mid-level,100-500,Hybrid,38,Weekly,3,1,Focus Session,3,30,0.59,Morning,16,38,18,16,2,0
+Software Engineer,Mid-level,1-25,Hybrid,62,Weekly,9,1,Sleep Practice,2,26,0.42,Evening,9,47,23,23,0,0
+Software Engineer,Mid-level,26-100,In-office,53,Monthly,6,0,Body Scan,3,27,0.95,Morning,5,38,22,18,4,1
+QA Engineer,Mid-level,More than 1000,Hybrid,44,Never,1,0,Breathing Exercise,2,17,0.83,Morning,9,42,18,15,3,1
+Data Scientist,Junior,More than 1000,Hybrid,33,Daily,5,0,Body Scan,3,13,0.64,Morning,8,53,17,16,1,0
+Software Engineer,Senior,100-500,Remote,43,Weekly,7,0,Focus Session,3,24,0.78,Morning,20,65,22,15,7,1
+Product Manager,Senior,More than 1000,Remote,45,Rarely,4,0,Guided Meditation,3,32,0.93,Evening,16,53,19,18,1,0
+Designer,Senior,More than 1000,Remote,50,Weekly,8,0,Body Scan,7,41,0.4,Morning,20,54,19,19,0,0
+Software Engineer,Mid-level,1-25,Remote,52,Weekly,5,0,Sleep Practice,2,28,0.48,Morning,18,43,22,20,2,0
+DevOps,Mid-level,500-1000,Hybrid,54,Monthly,9,1,Sleep Practice,2,37,0.68,Night,4,36,22,21,1,0
+Software Engineer,Lead/Staff,100-500,Remote,32,Weekly,9,0,Journaling,2,24,0.86,Afternoon,16,42,18,16,2,0
+Software Engineer,Senior,1-25,Remote,49,Monthly,9,0,Journaling,5,34,0.33,Morning,4,44,22,18,4,1
+Product Manager,Mid-level,500-1000,Remote,46,Daily,1,0,Journaling,3,13,0.99,Morning,6,33,21,20,1,0
+Product Manager,Junior,1-25,In-office,71,Never,2,0,Guided Meditation,3,21,0.62,Morning,3,53,26,19,7,1
+DevOps,Mid-level,1-25,In-office,48,Never,3,1,Focus Session,1,40,0.55,Morning,18,60,20,18,2,0
+Designer,Mid-level,More than 1000,Hybrid,41,Rarely,4,0,Breathing Exercise,3,18,0.5,Morning,15,46,18,17,1,0
+Engineering Manager,Mid-level,500-1000,In-office,48,Weekly,9,0,Sleep Practice,2,23,0.42,Evening,8,56,22,19,3,1
+Product Manager,Senior,100-500,In-office,47,Weekly,6,0,Sleep Practice,4,11,0.85,Morning,18,57,21,19,2,0
+Software Engineer,Senior,100-500,Hybrid,30,Daily,1,0,Focus Session,4,7,0.97,Afternoon,23,35,18,15,3,1
+Designer,Senior,500-1000,Remote,51,Weekly,9,0,Guided Meditation,4,37,0.59,Night,3,28,22,24,-2,0
+Software Engineer,Senior,More than 1000,In-office,44,Monthly,6,1,Journaling,4,36,0.97,Afternoon,6,40,19,20,-1,0
+Data Scientist,Lead/Staff,26-100,Hybrid,47,Daily,4,0,Focus Session,3,15,0.88,Night,22,46,20,15,5,1
+Software Engineer,Senior,1-25,Hybrid,39,Rarely,4,0,Breathing Exercise,4,6,0.64,Afternoon,21,33,19,20,-1,0
+Software Engineer,Manager,More than 1000,In-office,37,Weekly,3,0,Journaling,2,30,0.77,Afternoon,15,59,17,16,1,0
+Engineering Manager,Junior,500-1000,Hybrid,55,Monthly,7,0,Breathing Exercise,3,8,0.6,Evening,12,64,23,20,3,1
+QA Engineer,Junior,1-25,Hybrid,57,Weekly,3,1,Body Scan,2,21,0.69,Morning,5,47,22,17,5,1
+DevOps,Junior,100-500,In-office,51,Weekly,2,1,Breathing Exercise,1,21,0.34,Morning,7,35,21,22,-1,0
+Data Scientist,Senior,26-100,Remote,31,Weekly,8,1,Journaling,2,32,0.79,Evening,22,50,19,15,4,1
+Software Engineer,Lead/Staff,100-500,Hybrid,51,Never,4,0,Body Scan,3,34,0.34,Afternoon,15,35,22,21,1,0
+Software Engineer,Mid-level,500-1000,Hybrid,31,Monthly,8,0,Journaling,2,44,0.87,Evening,7,56,18,23,-5,0
+Software Engineer,Manager,1-25,Hybrid,41,Monthly,1,1,Sleep Practice,4,27,0.88,Night,13,43,19,17,2,0
+Product Manager,Junior,500-1000,In-office,55,Weekly,5,1,Journaling,1,28,0.47,Afternoon,3,52,22,22,0,0
+DevOps,Manager,1-25,Remote,53,Monthly,9,0,Body Scan,2,33,0.53,Evening,23,54,23,20,3,1
+DevOps,Mid-level,More than 1000,Hybrid,51,Daily,1,0,Breathing Exercise,4,8,0.64,Evening,13,50,21,21,0,0
+Software Engineer,Junior,26-100,Remote,59,Monthly,4,0,Sleep Practice,2,42,0.72,Night,3,63,24,25,-1,0
+Engineering Manager,Mid-level,More than 1000,Hybrid,52,Monthly,6,0,Guided Meditation,4,33,0.5,Evening,2,47,23,18,5,1
+Designer,Mid-level,More than 1000,Hybrid,30,Weekly,8,0,Guided Meditation,3,23,0.71,Night,23,40,18,17,1,0
+Product Manager,Mid-level,500-1000,In-office,44,Monthly,3,0,Guided Meditation,6,31,0.51,Morning,4,24,19,23,-4,0
+Product Manager,Mid-level,26-100,Remote,47,Daily,5,1,Guided Meditation,3,33,0.34,Evening,17,22,21,19,2,0
+Data Scientist,Lead/Staff,1-25,Hybrid,46,Weekly,7,0,Focus Session,1,40,0.3,Morning,6,52,21,18,3,1
+Software Engineer,Senior,1-25,Remote,41,Monthly,1,0,Guided Meditation,2,39,0.37,Morning,11,43,19,15,4,1
+Data Scientist,Mid-level,100-500,In-office,38,Never,7,0,Body Scan,1,10,0.85,Night,6,37,18,18,0,0
+Designer,Senior,1-25,In-office,69,Monthly,8,1,Guided Meditation,5,27,0.97,Morning,22,34,25,23,2,0
+Software Engineer,Senior,500-1000,In-office,44,Rarely,8,0,Journaling,1,43,0.6,Night,2,52,19,17,2,0
+Software Engineer,Mid-level,More than 1000,In-office,68,Weekly,9,1,Guided Meditation,2,12,0.66,Morning,17,35,25,22,3,1
+Software Engineer,Mid-level,More than 1000,In-office,37,Rarely,6,0,Breathing Exercise,2,6,0.4,Evening,3,61,18,15,3,1
+Software Engineer,Junior,More than 1000,Remote,53,Rarely,6,1,Body Scan,4,17,0.69,Morning,12,69,22,17,5,1
+QA Engineer,Junior,26-100,Remote,49,Rarely,2,0,Body Scan,2,44,0.4,Afternoon,14,36,20,21,-1,0
+DevOps,Senior,1-25,Hybrid,39,Never,3,0,Sleep Practice,7,25,0.73,Morning,2,52,20,24,-4,0
+Data Scientist,Junior,500-1000,In-office,43,Rarely,4,0,Focus Session,1,35,0.95,Evening,22,49,19,14,5,1
+Software Engineer,Senior,26-100,In-office,47,Daily,4,0,Journaling,1,40,0.44,Morning,22,35,21,23,-2,0
+Data Scientist,Senior,100-500,Remote,39,Weekly,8,0,Body Scan,2,42,0.84,Evening,5,35,18,17,1,0
+Data Scientist,Junior,500-1000,In-office,45,Weekly,1,1,Breathing Exercise,4,31,0.32,Morning,10,44,21,17,4,1
+Software Engineer,Senior,500-1000,Hybrid,30,Weekly,4,0,Guided Meditation,5,40,0.56,Morning,10,34,17,15,2,0
+Data Scientist,Mid-level,500-1000,Hybrid,53,Rarely,4,0,Body Scan,1,27,0.38,Morning,21,56,23,20,3,1
+Data Scientist,Manager,More than 1000,Remote,58,Daily,1,0,Breathing Exercise,1,25,0.55,Afternoon,9,43,22,14,8,1
+Product Manager,Mid-level,500-1000,Remote,51,Never,3,1,Guided Meditation,4,17,0.42,Evening,21,34,20,16,4,1
+DevOps,Lead/Staff,1-25,Hybrid,67,Rarely,5,1,Focus Session,1,41,0.56,Night,13,44,23,25,-2,0
+Software Engineer,Senior,500-1000,Hybrid,53,Monthly,6,1,Body Scan,1,30,0.59,Morning,10,50,22,25,-3,0
+Data Scientist,Junior,More than 1000,Remote,57,Never,9,0,Body Scan,1,44,0.51,Evening,6,38,23,20,3,1
+DevOps,Senior,500-1000,Hybrid,58,Weekly,9,1,Breathing Exercise,1,11,0.76,Evening,11,25,22,21,1,0
+Product Manager,Manager,100-500,In-office,30,Monthly,9,1,Sleep Practice,2,43,0.94,Morning,4,46,17,20,-3,0
+QA Engineer,Senior,100-500,In-office,51,Weekly,1,1,Journaling,1,26,0.58,Afternoon,14,33,21,17,4,1
+DevOps,Lead/Staff,More than 1000,In-office,35,Monthly,9,0,Focus Session,2,43,0.43,Evening,17,37,18,14,4,1
+Software Engineer,Lead/Staff,1-25,Remote,36,Rarely,8,0,Journaling,4,27,0.49,Morning,20,50,18,16,2,0
+Software Engineer,Mid-level,1-25,Remote,38,Weekly,2,0,Body Scan,2,34,0.9,Morning,2,39,19,11,8,1
+DevOps,Mid-level,26-100,Hybrid,44,Rarely,1,0,Journaling,4,22,0.7,Morning,10,44,19,14,5,1
+Software Engineer,Senior,More than 1000,Hybrid,53,Monthly,1,1,Guided Meditation,1,22,0.62,Evening,3,60,20,22,-2,0
+Product Manager,Mid-level,500-1000,Remote,51,Never,6,0,Focus Session,3,14,0.4,Morning,7,41,23,18,5,1
+Engineering Manager,Lead/Staff,More than 1000,Remote,47,Weekly,9,0,Journaling,2,43,0.61,Morning,7,65,21,19,2,0
+Product Manager,Manager,26-100,Hybrid,54,Weekly,7,1,Guided Meditation,4,34,0.49,Morning,1,52,21,14,7,1
+Data Scientist,Mid-level,More than 1000,Remote,54,Monthly,5,1,Breathing Exercise,1,30,0.96,Morning,8,36,20,16,4,1
+DevOps,Mid-level,More than 1000,Remote,51,Daily,2,0,Journaling,5,11,0.92,Morning,23,40,22,18,4,1
+Data Scientist,Lead/Staff,26-100,Remote,31,Daily,1,1,Focus Session,2,11,0.36,Night,1,32,16,14,2,0
+Product Manager,Mid-level,1-25,Remote,40,Weekly,2,0,Guided Meditation,2,9,0.66,Morning,8,51,19,21,-2,0
+Engineering Manager,Lead/Staff,500-1000,Hybrid,47,Weekly,1,1,Journaling,6,5,0.46,Evening,14,58,19,18,1,0
+Data Scientist,Mid-level,26-100,Hybrid,54,Rarely,3,1,Breathing Exercise,3,22,0.59,Afternoon,14,41,21,19,2,0
+Engineering Manager,Senior,100-500,Hybrid,35,Weekly,6,0,Journaling,2,17,0.91,Evening,2,26,19,22,-3,0
+Engineering Manager,Junior,1-25,Remote,47,Rarely,8,1,Guided Meditation,6,29,0.67,Evening,8,49,19,15,4,1
+Software Engineer,Senior,100-500,Remote,33,Never,3,1,Journaling,2,44,0.53,Morning,19,36,17,17,0,0
+Software Engineer,Mid-level,1-25,Hybrid,56,Daily,9,0,Focus Session,1,12,0.45,Evening,10,38,22,23,-1,0
+Software Engineer,Senior,500-1000,Hybrid,49,Weekly,5,0,Body Scan,7,14,0.86,Afternoon,7,48,20,15,5,1
+Software Engineer,Junior,500-1000,Hybrid,35,Monthly,7,1,Guided Meditation,2,36,0.74,Evening,13,57,18,18,0,0
+Software Engineer,Senior,More than 1000,Remote,35,Rarely,8,0,Guided Meditation,5,21,0.63,Afternoon,22,52,18,13,5,1
+DevOps,Lead/Staff,100-500,In-office,50,Weekly,3,0,Guided Meditation,1,42,0.45,Night,21,49,22,21,1,0
+Software Engineer,Mid-level,1-25,Remote,59,Never,2,1,Guided Meditation,4,19,0.53,Evening,15,43,21,22,-1,0
+Software Engineer,Junior,500-1000,Hybrid,37,Never,2,1,Journaling,3,19,0.97,Night,11,32,18,13,5,1
+QA Engineer,Junior,26-100,Hybrid,54,Never,5,0,Focus Session,7,44,0.66,Evening,14,48,22,16,6,1
+Software Engineer,Senior,500-1000,Hybrid,42,Monthly,1,0,Breathing Exercise,3,24,0.58,Afternoon,11,52,17,12,5,1
+QA Engineer,Senior,26-100,Remote,54,Weekly,2,0,Focus Session,1,19,0.66,Evening,2,39,21,15,6,1
+Software Engineer,Senior,1-25,Hybrid,53,Never,9,0,Guided Meditation,3,39,0.85,Night,2,41,22,22,0,0
+Software Engineer,Mid-level,500-1000,In-office,48,Weekly,7,0,Sleep Practice,1,10,0.54,Night,12,56,21,26,-5,0
+DevOps,Mid-level,500-1000,Remote,30,Rarely,6,1,Journaling,4,34,0.43,Morning,15,41,17,17,0,0
+DevOps,Senior,1-25,Remote,53,Weekly,9,0,Sleep Practice,5,12,0.71,Evening,17,42,23,18,5,1
+QA Engineer,Mid-level,500-1000,Remote,52,Daily,7,0,Journaling,3,35,0.77,Morning,14,44,22,21,1,0
+Designer,Manager,26-100,In-office,51,Weekly,5,0,Guided Meditation,4,36,0.8,Evening,16,52,22,24,-2,0
+QA Engineer,Junior,500-1000,Remote,49,Daily,9,1,Journaling,1,19,0.92,Morning,8,48,21,25,-4,0
+Software Engineer,Senior,100-500,In-office,39,Daily,6,0,Guided Meditation,3,22,0.56,Morning,17,47,20,14,6,1
+Software Engineer,Mid-level,More than 1000,Hybrid,57,Monthly,6,0,Focus Session,2,17,0.35,Night,5,60,24,22,2,0
+Designer,Mid-level,26-100,In-office,55,Weekly,4,0,Body Scan,3,28,0.97,Morning,12,41,22,22,0,0
+QA Engineer,Senior,100-500,In-office,37,Daily,1,1,Journaling,1,44,0.6,Evening,6,35,20,14,6,1
+Engineering Manager,Senior,1-25,Hybrid,59,Monthly,5,1,Guided Meditation,4,18,0.74,Evening,18,55,22,12,10,1
+Data Scientist,Manager,26-100,Remote,48,Rarely,9,0,Sleep Practice,1,32,0.77,Morning,5,47,22,18,4,1
+Data Scientist,Junior,More than 1000,Remote,48,Daily,8,0,Guided Meditation,3,15,0.68,Morning,6,39,22,19,3,1
+Designer,Junior,More than 1000,Remote,45,Weekly,8,0,Sleep Practice,1,10,0.44,Evening,9,41,21,19,2,0
+Software Engineer,Senior,1-25,Hybrid,46,Rarely,5,0,Journaling,4,29,0.83,Morning,15,32,20,15,5,1
+Engineering Manager,Senior,1-25,Remote,59,Monthly,9,0,Breathing Exercise,1,5,0.86,Evening,10,47,22,15,7,1
+QA Engineer,Mid-level,26-100,Remote,56,Weekly,3,0,Sleep Practice,3,29,0.69,Night,17,30,22,24,-2,0
+Data Scientist,Junior,500-1000,Hybrid,56,Monthly,3,0,Guided Meditation,2,6,0.64,Morning,19,52,22,22,0,0
+Designer,Junior,1-25,In-office,49,Weekly,1,0,Journaling,4,36,0.38,Morning,12,40,20,19,1,0
+Designer,Lead/Staff,500-1000,Remote,55,Weekly,9,0,Guided Meditation,2,17,0.36,Afternoon,9,31,21,19,2,0
+Software Engineer,Junior,100-500,Remote,39,Weekly,6,1,Breathing Exercise,4,37,0.54,Evening,15,56,19,12,7,1
+Engineering Manager,Mid-level,More than 1000,Remote,52,Monthly,2,0,Body Scan,2,36,0.52,Morning,14,68,21,18,3,1
+Product Manager,Mid-level,500-1000,In-office,46,Weekly,8,0,Breathing Exercise,4,28,0.97,Morning,1,49,20,16,4,1
+QA Engineer,Mid-level,More than 1000,Hybrid,30,Weekly,9,0,Focus Session,1,31,0.85,Evening,17,42,18,14,4,1
+Software Engineer,Junior,500-1000,Remote,33,Weekly,9,1,Journaling,2,8,0.76,Night,1,35,19,18,1,0
+QA Engineer,Senior,100-500,Remote,41,Monthly,2,1,Breathing Exercise,3,28,0.66,Afternoon,23,48,20,19,1,0
+Data Scientist,Junior,1-25,Remote,51,Monthly,2,0,Body Scan,1,27,0.42,Afternoon,21,51,20,19,1,0
+Software Engineer,Lead/Staff,100-500,Remote,41,Daily,7,0,Guided Meditation,1,33,0.98,Night,22,45,22,22,0,0
+Engineering Manager,Mid-level,1-25,In-office,42,Never,4,0,Journaling,6,38,0.56,Evening,13,54,19,18,1,0
+Software Engineer,Senior,1-25,In-office,54,Rarely,1,0,Sleep Practice,7,25,0.37,Evening,8,60,20,16,4,1
+Software Engineer,Lead/Staff,More than 1000,Hybrid,42,Monthly,8,0,Breathing Exercise,4,34,0.65,Evening,13,32,20,19,1,0
+Engineering Manager,Senior,100-500,In-office,59,Weekly,2,1,Body Scan,2,30,0.91,Night,16,48,21,14,7,1
+Engineering Manager,Senior,500-1000,Remote,57,Rarely,3,0,Breathing Exercise,2,24,0.92,Evening,2,26,22,21,1,0
+Product Manager,Mid-level,100-500,Hybrid,47,Rarely,5,1,Focus Session,3,20,0.31,Night,13,37,21,16,5,1
+DevOps,Mid-level,More than 1000,In-office,54,Never,3,0,Journaling,1,7,0.92,Evening,18,52,21,23,-2,0
+Data Scientist,Senior,1-25,Remote,53,Weekly,7,1,Guided Meditation,6,41,0.49,Evening,3,45,21,23,-2,0
+Software Engineer,Manager,More than 1000,In-office,45,Rarely,7,1,Body Scan,2,44,0.33,Morning,13,29,19,18,1,0
+Software Engineer,Senior,26-100,Remote,55,Monthly,2,0,Breathing Exercise,7,29,0.89,Morning,19,55,22,16,6,1
+DevOps,Senior,26-100,Remote,56,Monthly,7,0,Journaling,3,27,0.9,Evening,13,40,23,23,0,0
+Designer,Senior,500-1000,Remote,38,Daily,6,0,Breathing Exercise,4,5,0.72,Morning,19,54,19,17,2,0
+Designer,Mid-level,More than 1000,Hybrid,48,Monthly,9,0,Journaling,1,37,0.7,Evening,4,50,19,15,4,1
+Designer,Junior,500-1000,Hybrid,48,Never,9,0,Focus Session,5,19,0.87,Morning,19,37,20,19,1,0
+Software Engineer,Senior,500-1000,In-office,55,Monthly,2,1,Breathing Exercise,2,21,0.85,Evening,18,54,22,23,-1,0
+Data Scientist,Manager,26-100,Hybrid,43,Daily,7,0,Focus Session,3,38,0.92,Morning,6,48,20,17,3,1
+Software Engineer,Junior,500-1000,In-office,42,Weekly,5,1,Sleep Practice,4,21,0.69,Evening,19,47,19,21,-2,0
+Product Manager,Senior,26-100,In-office,49,Daily,6,0,Sleep Practice,1,8,0.98,Evening,4,40,22,23,-1,0
+Data Scientist,Mid-level,1-25,Remote,58,Weekly,1,1,Body Scan,2,17,1.0,Morning,4,34,22,21,1,0
+QA Engineer,Senior,More than 1000,Hybrid,36,Never,7,0,Focus Session,3,8,0.38,Evening,7,41,20,17,3,1
+Data Scientist,Junior,500-1000,Remote,38,Weekly,6,1,Journaling,2,11,0.89,Morning,7,41,19,15,4,1
+Software Engineer,Mid-level,26-100,Hybrid,42,Rarely,4,0,Body Scan,3,13,0.65,Morning,23,54,18,13,5,1
+Software Engineer,Senior,100-500,In-office,44,Monthly,1,0,Breathing Exercise,2,27,0.57,Afternoon,16,29,20,19,1,0
+Designer,Mid-level,500-1000,Remote,31,Rarely,9,1,Breathing Exercise,2,37,0.73,Morning,16,60,18,13,5,1
+Product Manager,Senior,1-25,Hybrid,60,Rarely,4,0,Journaling,3,37,0.34,Night,5,60,21,18,3,1
+Software Engineer,Lead/Staff,1-25,Hybrid,46,Daily,2,1,Guided Meditation,3,24,0.65,Morning,15,39,21,17,4,1
+Software Engineer,Manager,100-500,Hybrid,44,Rarely,8,1,Guided Meditation,2,8,0.91,Evening,23,59,20,20,0,0
+DevOps,Mid-level,26-100,Remote,62,Daily,2,0,Breathing Exercise,5,5,0.45,Afternoon,4,35,22,19,3,1
+Software Engineer,Mid-level,500-1000,Remote,53,Never,5,0,Journaling,5,38,0.6,Evening,13,56,21,19,2,0
+QA Engineer,Junior,26-100,Remote,42,Never,6,1,Guided Meditation,3,31,0.96,Afternoon,19,37,19,16,3,1
+DevOps,Manager,1-25,Remote,48,Daily,8,0,Focus Session,2,25,0.6,Evening,7,55,20,19,1,0
+Software Engineer,Manager,26-100,Remote,47,Weekly,1,1,Breathing Exercise,2,28,0.55,Evening,12,31,19,12,7,1
+Software Engineer,Senior,1-25,Hybrid,60,Weekly,1,1,Sleep Practice,4,19,0.61,Evening,9,56,24,26,-2,0
+Engineering Manager,Lead/Staff,26-100,Remote,45,Rarely,4,0,Focus Session,3,39,0.66,Morning,17,58,20,14,6,1
+Data Scientist,Senior,100-500,In-office,34,Monthly,5,0,Journaling,1,29,0.74,Evening,2,30,19,14,5,1
+Data Scientist,Senior,More than 1000,Hybrid,30,Weekly,9,1,Sleep Practice,3,13,0.86,Morning,16,63,18,13,5,1
+QA Engineer,Junior,100-500,Hybrid,60,Weekly,7,0,Focus Session,2,21,0.62,Morning,7,55,24,25,-1,0
+Engineering Manager,Senior,100-500,Hybrid,40,Monthly,7,0,Guided Meditation,1,25,0.87,Afternoon,18,25,20,14,6,1
+Engineering Manager,Junior,More than 1000,Hybrid,53,Daily,8,0,Guided Meditation,3,17,0.67,Afternoon,7,40,21,21,0,0
+Designer,Lead/Staff,More than 1000,In-office,48,Weekly,5,0,Sleep Practice,3,7,0.54,Afternoon,1,55,21,18,3,1
+Data Scientist,Lead/Staff,500-1000,Remote,43,Daily,5,0,Body Scan,2,8,0.76,Evening,3,52,19,18,1,0
+Software Engineer,Senior,500-1000,Remote,45,Weekly,1,0,Breathing Exercise,3,8,0.8,Morning,21,46,21,20,1,0
+Designer,Junior,100-500,In-office,61,Weekly,9,1,Sleep Practice,6,32,0.69,Morning,11,54,24,21,3,1
+Product Manager,Mid-level,100-500,Remote,34,Never,6,0,Journaling,3,11,0.34,Morning,22,36,18,10,8,1
+Data Scientist,Mid-level,1-25,Remote,44,Monthly,9,0,Breathing Exercise,3,30,0.42,Evening,15,45,20,17,3,1
+Engineering Manager,Mid-level,1-25,Remote,55,Daily,3,1,Focus Session,1,15,0.5,Evening,3,37,23,17,6,1
+Software Engineer,Junior,500-1000,Remote,35,Rarely,5,1,Journaling,1,28,0.5,Morning,13,46,18,17,1,0
+Data Scientist,Manager,500-1000,Hybrid,59,Never,2,1,Journaling,2,14,0.77,Evening,4,55,20,19,1,0
+Software Engineer,Senior,1-25,Remote,55,Rarely,5,0,Guided Meditation,3,41,0.31,Evening,23,53,20,22,-2,0
+Data Scientist,Mid-level,1-25,In-office,49,Rarely,8,1,Focus Session,4,17,0.83,Afternoon,22,47,20,19,1,0
+Software Engineer,Mid-level,26-100,In-office,42,Daily,2,0,Guided Meditation,2,43,0.49,Evening,8,55,20,20,0,0
+Software Engineer,Mid-level,26-100,Hybrid,34,Daily,8,0,Guided Meditation,2,23,0.52,Evening,22,56,20,19,1,0
+Software Engineer,Senior,1-25,Hybrid,53,Monthly,4,0,Body Scan,2,23,0.67,Evening,4,63,22,24,-2,0
+DevOps,Senior,26-100,In-office,72,Never,1,0,Guided Meditation,2,16,0.45,Morning,18,57,24,25,-1,0
+Designer,Manager,More than 1000,Remote,48,Weekly,5,1,Breathing Exercise,6,26,0.92,Morning,7,52,22,20,2,0
+Product Manager,Mid-level,500-1000,In-office,31,Weekly,1,0,Journaling,3,41,0.36,Morning,11,54,17,12,5,1
+Engineering Manager,Manager,500-1000,In-office,51,Daily,7,1,Guided Meditation,1,34,0.61,Evening,4,47,22,26,-4,0
+Data Scientist,Lead/Staff,1-25,Hybrid,55,Monthly,8,1,Sleep Practice,4,16,0.89,Night,13,42,22,27,-5,0
+Software Engineer,Mid-level,100-500,Hybrid,39,Rarely,3,1,Breathing Exercise,4,33,0.73,Afternoon,9,54,18,21,-3,0
+QA Engineer,Manager,1-25,Remote,41,Monthly,3,0,Focus Session,3,25,0.5,Morning,9,53,19,20,-1,0
+Software Engineer,Junior,26-100,Hybrid,40,Daily,7,1,Journaling,1,15,0.59,Evening,23,48,22,19,3,1
+Engineering Manager,Lead/Staff,100-500,In-office,42,Weekly,4,0,Sleep Practice,2,41,0.79,Evening,21,43,18,18,0,0
+Software Engineer,Mid-level,26-100,Remote,45,Weekly,3,0,Sleep Practice,1,22,0.98,Night,19,42,20,20,0,0
+Engineering Manager,Lead/Staff,More than 1000,In-office,39,Rarely,8,1,Focus Session,4,31,0.93,Evening,3,41,18,17,1,0
+Software Engineer,Lead/Staff,26-100,Remote,36,Weekly,3,0,Sleep Practice,3,41,0.54,Night,12,58,18,22,-4,0
+QA Engineer,Lead/Staff,More than 1000,Remote,49,Weekly,7,0,Breathing Exercise,3,16,1.0,Morning,11,57,22,17,5,1
+Product Manager,Lead/Staff,More than 1000,Remote,45,Rarely,2,1,Focus Session,2,27,0.3,Morning,20,56,18,13,5,1
+Engineering Manager,Mid-level,26-100,Remote,43,Monthly,1,0,Sleep Practice,1,38,0.32,Morning,11,34,20,20,0,0
+Software Engineer,Junior,26-100,Hybrid,48,Rarely,6,1,Focus Session,1,42,0.88,Evening,17,41,23,21,2,0
+Product Manager,Mid-level,More than 1000,Remote,33,Rarely,8,0,Focus Session,6,27,0.44,Morning,21,42,19,16,3,1
+Engineering Manager,Junior,100-500,In-office,49,Never,1,0,Guided Meditation,1,29,0.34,Afternoon,14,39,21,23,-2,0
+Product Manager,Senior,More than 1000,Hybrid,43,Rarely,9,0,Guided Meditation,1,8,0.47,Afternoon,16,64,20,20,0,0
+DevOps,Mid-level,500-1000,Remote,49,Monthly,3,0,Guided Meditation,6,34,0.6,Morning,10,49,21,13,8,1
+DevOps,Manager,More than 1000,Hybrid,51,Never,3,0,Sleep Practice,3,34,0.81,Night,4,48,21,19,2,0
+Data Scientist,Senior,100-500,In-office,57,Rarely,4,1,Journaling,4,17,0.74,Morning,10,40,21,19,2,0
+DevOps,Lead/Staff,500-1000,Hybrid,48,Daily,1,0,Breathing Exercise,1,18,0.47,Afternoon,20,54,20,21,-1,0
+Product Manager,Junior,1-25,Remote,57,Monthly,9,1,Sleep Practice,3,12,0.65,Evening,12,67,24,24,0,0
+Engineering Manager,Lead/Staff,1-25,In-office,44,Weekly,3,0,Guided Meditation,2,28,0.95,Morning,9,46,20,17,3,1
+Software Engineer,Manager,100-500,In-office,45,Monthly,4,0,Focus Session,4,22,0.87,Evening,15,43,20,20,0,0
+Software Engineer,Mid-level,More than 1000,Remote,46,Weekly,1,1,Sleep Practice,1,39,0.53,Evening,9,44,20,15,5,1
+Engineering Manager,Senior,26-100,Remote,54,Rarely,4,1,Focus Session,2,29,0.99,Night,7,42,22,26,-4,0
+QA Engineer,Senior,100-500,Hybrid,53,Weekly,1,0,Focus Session,4,21,0.8,Night,12,45,20,20,0,0
+Data Scientist,Junior,500-1000,Remote,48,Never,5,1,Focus Session,3,36,0.34,Morning,20,39,20,23,-3,0
+DevOps,Senior,500-1000,In-office,36,Weekly,5,1,Body Scan,3,28,0.32,Evening,14,36,19,13,6,1
+Software Engineer,Mid-level,1-25,Remote,53,Rarely,7,0,Journaling,1,11,0.42,Morning,22,45,20,19,1,0
+Software Engineer,Junior,500-1000,In-office,39,Weekly,8,1,Breathing Exercise,1,17,0.81,Morning,16,46,20,19,1,0
+Data Scientist,Mid-level,100-500,Hybrid,39,Monthly,4,0,Breathing Exercise,3,31,0.43,Morning,19,42,18,15,3,1
+Data Scientist,Junior,500-1000,Remote,37,Monthly,7,1,Guided Meditation,3,9,0.66,Morning,23,60,19,12,7,1
+Product Manager,Junior,100-500,Remote,46,Rarely,4,1,Body Scan,7,40,0.37,Night,3,49,22,19,3,1
+Software Engineer,Junior,26-100,Hybrid,58,Weekly,3,1,Sleep Practice,4,30,0.94,Morning,11,52,22,17,5,1
+Engineering Manager,Manager,1-25,In-office,38,Daily,6,0,Sleep Practice,3,35,0.54,Evening,23,53,18,17,1,0
+Engineering Manager,Senior,500-1000,In-office,62,Weekly,4,0,Breathing Exercise,5,14,0.94,Afternoon,21,46,23,24,-1,0
+DevOps,Manager,100-500,Remote,55,Never,3,1,Journaling,1,30,0.96,Afternoon,20,47,22,20,2,0
+Product Manager,Mid-level,More than 1000,Remote,34,Monthly,9,0,Focus Session,2,26,0.3,Night,19,36,18,19,-1,0
+Software Engineer,Mid-level,1-25,Remote,44,Daily,5,0,Guided Meditation,2,16,0.62,Morning,8,52,19,16,3,1
+QA Engineer,Senior,26-100,Hybrid,38,Monthly,7,1,Journaling,1,36,0.32,Evening,20,42,18,18,0,0
+DevOps,Mid-level,100-500,Remote,53,Weekly,6,0,Breathing Exercise,4,31,0.94,Afternoon,8,39,22,20,2,0
+Software Engineer,Junior,26-100,Hybrid,38,Daily,5,0,Body Scan,3,37,0.66,Morning,3,58,19,24,-5,0
+Engineering Manager,Senior,26-100,Hybrid,32,Daily,7,0,Guided Meditation,3,24,0.35,Afternoon,10,32,19,18,1,0
+QA Engineer,Mid-level,500-1000,In-office,44,Monthly,6,0,Breathing Exercise,2,43,0.38,Evening,13,62,21,20,1,0
+Engineering Manager,Senior,500-1000,Remote,58,Monthly,2,1,Sleep Practice,3,44,0.57,Morning,9,61,22,17,5,1
+Designer,Senior,100-500,Remote,45,Rarely,3,1,Guided Meditation,1,17,0.96,Morning,6,43,18,14,4,1
+Product Manager,Junior,More than 1000,Hybrid,51,Weekly,2,0,Breathing Exercise,3,18,0.79,Morning,15,63,22,20,2,0
+Data Scientist,Junior,100-500,Hybrid,51,Rarely,3,1,Sleep Practice,2,44,0.91,Evening,16,36,23,27,-4,0
+Engineering Manager,Lead/Staff,More than 1000,Remote,33,Rarely,1,1,Sleep Practice,4,26,0.56,Evening,5,55,18,17,1,0
+QA Engineer,Mid-level,26-100,In-office,39,Monthly,8,1,Focus Session,1,22,0.33,Evening,21,45,19,14,5,1
+Software Engineer,Junior,1-25,In-office,47,Rarely,6,0,Body Scan,2,33,0.98,Afternoon,13,27,20,19,1,0
+Software Engineer,Manager,100-500,Remote,42,Weekly,2,1,Focus Session,3,20,0.31,Night,19,39,20,22,-2,0
+Data Scientist,Junior,100-500,Remote,62,Weekly,8,0,Breathing Exercise,4,39,0.96,Evening,2,43,25,20,5,1
+QA Engineer,Senior,More than 1000,Hybrid,36,Monthly,6,1,Journaling,3,38,0.56,Evening,6,53,18,21,-3,0
+Engineering Manager,Manager,26-100,In-office,39,Monthly,7,1,Focus Session,4,7,0.31,Evening,1,40,19,18,1,0
+Software Engineer,Mid-level,26-100,Remote,50,Daily,1,0,Journaling,7,8,0.78,Evening,15,42,21,17,4,1
+Product Manager,Junior,More than 1000,Hybrid,41,Never,7,1,Sleep Practice,7,9,0.99,Afternoon,15,50,19,15,4,1
+Data Scientist,Junior,26-100,Hybrid,30,Weekly,3,0,Breathing Exercise,4,14,0.98,Night,14,50,18,19,-1,0
+Engineering Manager,Mid-level,500-1000,Remote,64,Daily,8,1,Body Scan,4,33,0.41,Night,7,44,25,27,-2,0
+QA Engineer,Junior,1-25,Hybrid,37,Monthly,6,0,Journaling,2,36,0.43,Morning,5,42,17,18,-1,0
+QA Engineer,Senior,100-500,In-office,52,Monthly,4,1,Breathing Exercise,4,35,0.7,Morning,20,54,21,16,5,1
+Data Scientist,Junior,1-25,Remote,36,Daily,8,0,Journaling,2,6,0.75,Night,16,42,19,17,2,0
+Data Scientist,Senior,100-500,Remote,39,Rarely,9,0,Focus Session,6,16,0.82,Morning,17,33,17,15,2,0
+Software Engineer,Manager,500-1000,Hybrid,32,Monthly,2,0,Breathing Exercise,1,31,0.43,Night,11,41,18,15,3,1
+Software Engineer,Lead/Staff,26-100,In-office,40,Monthly,6,0,Focus Session,2,9,0.97,Afternoon,15,50,19,19,0,0
+QA Engineer,Senior,More than 1000,In-office,41,Rarely,5,0,Guided Meditation,3,41,0.75,Morning,20,44,19,15,4,1
+QA Engineer,Mid-level,500-1000,Hybrid,46,Weekly,5,1,Breathing Exercise,2,31,0.89,Morning,16,40,21,18,3,1
+Engineering Manager,Senior,1-25,In-office,44,Daily,3,0,Journaling,2,27,0.68,Morning,3,32,20,20,0,0
+Engineering Manager,Senior,More than 1000,Hybrid,34,Weekly,8,0,Guided Meditation,3,37,0.59,Morning,6,44,17,16,1,0
+Product Manager,Mid-level,26-100,Hybrid,42,Rarely,8,0,Focus Session,4,8,0.98,Afternoon,21,47,20,18,2,0
+Designer,Junior,500-1000,Remote,60,Never,5,1,Focus Session,3,25,0.71,Evening,23,35,24,19,5,1
+Engineering Manager,Lead/Staff,More than 1000,Remote,59,Weekly,8,1,Journaling,2,28,0.91,Night,13,43,23,21,2,0
+QA Engineer,Mid-level,500-1000,Remote,51,Never,8,1,Guided Meditation,4,35,0.97,Afternoon,1,34,21,20,1,0
+Software Engineer,Junior,500-1000,Hybrid,53,Weekly,3,1,Sleep Practice,2,28,0.77,Evening,21,44,21,23,-2,0
+Data Scientist,Mid-level,26-100,Remote,66,Monthly,2,0,Body Scan,1,14,0.68,Evening,14,62,22,19,3,1
+Software Engineer,Mid-level,100-500,In-office,52,Weekly,9,0,Journaling,3,6,0.3,Evening,2,47,22,20,2,0
+Engineering Manager,Lead/Staff,More than 1000,Remote,53,Monthly,2,0,Focus Session,4,35,0.33,Evening,2,29,20,21,-1,0
+Product Manager,Senior,26-100,Remote,33,Monthly,9,1,Breathing Exercise,3,29,0.44,Morning,15,48,18,17,1,0
+Software Engineer,Senior,500-1000,Hybrid,37,Rarely,4,1,Guided Meditation,3,8,0.43,Morning,18,58,18,16,2,0
+DevOps,Junior,26-100,Hybrid,47,Rarely,2,0,Sleep Practice,2,15,0.48,Morning,9,31,20,23,-3,0
+Product Manager,Mid-level,100-500,Remote,40,Monthly,1,0,Body Scan,3,21,0.51,Morning,3,35,19,17,2,0
+Data Scientist,Mid-level,More than 1000,Remote,38,Weekly,4,0,Breathing Exercise,1,6,0.55,Evening,4,48,18,22,-4,0
+Software Engineer,Junior,100-500,In-office,39,Weekly,9,0,Guided Meditation,6,10,0.59,Morning,15,44,20,21,-1,0
+DevOps,Mid-level,1-25,Remote,34,Weekly,9,1,Sleep Practice,4,13,0.37,Night,5,57,20,20,0,0
+Product Manager,Senior,More than 1000,Remote,40,Daily,4,0,Journaling,3,9,0.33,Night,20,43,18,18,0,0
+Designer,Junior,100-500,In-office,50,Rarely,9,1,Sleep Practice,3,24,0.77,Night,20,53,23,20,3,1
+Product Manager,Senior,500-1000,Remote,63,Never,6,0,Journaling,4,33,0.68,Night,5,60,22,20,2,0
+QA Engineer,Mid-level,More than 1000,Hybrid,54,Rarely,1,1,Guided Meditation,3,25,0.61,Morning,10,36,22,16,6,1
+Product Manager,Junior,More than 1000,Remote,53,Weekly,6,1,Sleep Practice,2,13,0.74,Evening,16,52,21,20,1,0
+Product Manager,Mid-level,26-100,Remote,32,Monthly,9,1,Body Scan,1,32,0.88,Morning,12,41,18,16,2,0
+QA Engineer,Manager,500-1000,Remote,48,Weekly,2,1,Sleep Practice,3,12,0.6,Evening,14,23,20,22,-2,0
+Data Scientist,Lead/Staff,1-25,Remote,46,Monthly,6,1,Guided Meditation,5,35,0.75,Night,22,50,19,20,-1,0
+Software Engineer,Manager,100-500,Remote,50,Daily,2,1,Breathing Exercise,1,24,0.97,Night,11,51,22,21,1,0
+Software Engineer,Mid-level,26-100,Remote,44,Daily,4,1,Breathing Exercise,1,31,0.89,Afternoon,19,30,21,20,1,0
+Designer,Junior,100-500,In-office,62,Never,8,1,Sleep Practice,2,12,0.6,Evening,6,40,24,22,2,0
+DevOps,Senior,1-25,Remote,47,Monthly,7,1,Sleep Practice,4,25,0.75,Morning,10,39,20,15,5,1
+DevOps,Mid-level,1-25,Hybrid,48,Weekly,9,1,Journaling,2,32,0.42,Morning,20,53,21,23,-2,0
+Software Engineer,Lead/Staff,More than 1000,In-office,30,Rarely,7,1,Guided Meditation,2,27,0.69,Evening,3,30,19,12,7,1
+Software Engineer,Junior,1-25,Hybrid,46,Monthly,1,1,Journaling,3,10,0.99,Afternoon,22,46,20,22,-2,0
+Software Engineer,Mid-level,100-500,Remote,57,Weekly,2,0,Body Scan,3,7,0.66,Night,15,22,21,19,2,0
+Data Scientist,Junior,500-1000,In-office,52,Rarely,6,0,Breathing Exercise,1,9,0.95,Morning,11,49,21,23,-2,0
+Product Manager,Mid-level,500-1000,Remote,30,Weekly,7,0,Focus Session,1,13,0.59,Night,22,46,16,12,4,1
+Data Scientist,Senior,More than 1000,Remote,43,Weekly,3,0,Focus Session,3,11,1.0,Afternoon,2,40,20,23,-3,0
+Data Scientist,Mid-level,100-500,In-office,63,Never,9,1,Guided Meditation,3,8,0.71,Evening,6,59,24,31,-7,0
+Engineering Manager,Mid-level,100-500,Hybrid,46,Monthly,7,0,Guided Meditation,7,43,0.33,Evening,17,19,20,17,3,1
+Software Engineer,Mid-level,1-25,Hybrid,50,Rarely,6,1,Focus Session,3,9,0.71,Night,18,45,22,21,1,0
+Product Manager,Mid-level,100-500,Remote,62,Weekly,6,0,Guided Meditation,1,15,0.49,Morning,4,57,24,20,4,1
+Designer,Lead/Staff,26-100,Hybrid,46,Rarely,1,0,Breathing Exercise,3,19,0.32,Night,23,46,20,18,2,0
+Data Scientist,Lead/Staff,1-25,Remote,54,Daily,5,1,Body Scan,2,38,0.87,Morning,9,59,24,25,-1,0
+DevOps,Manager,26-100,In-office,51,Monthly,3,1,Body Scan,1,17,0.49,Morning,10,40,22,23,-1,0
+QA Engineer,Lead/Staff,More than 1000,Remote,53,Rarely,7,0,Journaling,5,11,0.86,Afternoon,21,43,22,10,12,1
+Engineering Manager,Mid-level,500-1000,In-office,50,Monthly,3,1,Breathing Exercise,4,44,0.5,Evening,2,57,21,22,-1,0
+Software Engineer,Senior,More than 1000,Hybrid,42,Monthly,5,1,Guided Meditation,2,10,0.44,Afternoon,11,54,19,16,3,1
+Engineering Manager,Mid-level,500-1000,In-office,43,Monthly,7,0,Guided Meditation,2,43,0.98,Evening,11,69,19,16,3,1
+Data Scientist,Mid-level,More than 1000,Hybrid,39,Monthly,3,0,Journaling,1,34,0.55,Evening,11,46,19,16,3,1
+Software Engineer,Lead/Staff,100-500,Hybrid,32,Monthly,2,1,Journaling,2,26,0.72,Morning,1,47,17,14,3,1
+Data Scientist,Junior,26-100,Remote,58,Never,6,0,Guided Meditation,3,29,0.73,Night,14,40,21,20,1,0
+Engineering Manager,Manager,500-1000,Remote,47,Never,8,0,Guided Meditation,2,32,0.69,Morning,1,43,20,24,-4,0
+Data Scientist,Mid-level,1-25,Remote,58,Weekly,4,0,Breathing Exercise,6,24,0.94,Night,21,56,22,19,3,1
+Software Engineer,Senior,26-100,In-office,61,Monthly,9,1,Journaling,1,43,0.77,Morning,23,45,25,24,1,0
+DevOps,Senior,1-25,In-office,47,Monthly,8,1,Breathing Exercise,3,7,0.58,Evening,9,37,22,20,2,0
+Software Engineer,Lead/Staff,26-100,Hybrid,35,Weekly,7,1,Sleep Practice,5,9,0.9,Afternoon,1,41,19,15,4,1
+Software Engineer,Senior,26-100,Remote,45,Monthly,7,0,Guided Meditation,3,5,0.43,Morning,21,44,21,20,1,0
+Software Engineer,Senior,More than 1000,Remote,41,Weekly,3,1,Focus Session,1,19,0.68,Afternoon,22,38,20,21,-1,0
+Software Engineer,Junior,500-1000,Hybrid,30,Rarely,6,0,Focus Session,2,30,0.97,Morning,22,40,16,11,5,1
+Software Engineer,Senior,500-1000,Hybrid,42,Never,5,0,Sleep Practice,2,7,0.74,Morning,4,35,18,18,0,0
+Software Engineer,Junior,26-100,In-office,46,Daily,1,0,Guided Meditation,6,44,0.87,Morning,1,41,21,20,1,0
+DevOps,Senior,100-500,In-office,41,Monthly,3,0,Journaling,5,38,0.76,Afternoon,19,57,18,17,1,0
+Software Engineer,Senior,100-500,Remote,40,Weekly,1,1,Focus Session,6,9,0.89,Evening,10,45,19,15,4,1
+Software Engineer,Senior,1-25,Hybrid,36,Rarely,4,1,Journaling,4,35,0.96,Evening,15,70,17,15,2,0
+QA Engineer,Junior,1-25,Hybrid,49,Weekly,3,0,Focus Session,2,17,0.49,Night,20,37,21,13,8,1
+Data Scientist,Junior,More than 1000,Remote,64,Daily,4,1,Journaling,5,5,0.42,Evening,4,50,23,22,1,0
+DevOps,Senior,26-100,Remote,59,Never,9,1,Focus Session,7,26,0.64,Evening,20,47,23,24,-1,0
+Software Engineer,Junior,1-25,Remote,53,Weekly,3,1,Journaling,2,19,0.79,Evening,14,52,19,19,0,0
+Software Engineer,Junior,1-25,In-office,53,Monthly,6,0,Sleep Practice,2,30,0.46,Afternoon,5,39,23,21,2,0
+Software Engineer,Junior,26-100,Hybrid,46,Weekly,6,1,Breathing Exercise,3,22,0.3,Evening,15,41,21,21,0,0
+Software Engineer,Manager,More than 1000,Hybrid,31,Monthly,7,0,Journaling,1,13,0.54,Morning,15,49,19,18,1,0
+Software Engineer,Senior,1-25,In-office,44,Daily,9,1,Breathing Exercise,1,5,0.98,Night,16,40,22,18,4,1
+Software Engineer,Mid-level,More than 1000,In-office,38,Never,7,0,Breathing Exercise,6,13,0.79,Evening,16,27,19,12,7,1
+Software Engineer,Mid-level,500-1000,Remote,48,Rarely,1,1,Guided Meditation,5,27,0.58,Morning,4,58,19,18,1,0
+Software Engineer,Mid-level,More than 1000,Hybrid,58,Daily,8,0,Sleep Practice,1,6,0.43,Evening,9,54,24,25,-1,0
+Data Scientist,Senior,100-500,Hybrid,65,Weekly,5,0,Breathing Exercise,2,18,0.55,Morning,1,41,24,23,1,0
+Software Engineer,Senior,100-500,In-office,48,Never,9,1,Body Scan,4,42,0.42,Morning,5,47,22,16,6,1
+Data Scientist,Junior,More than 1000,Hybrid,32,Monthly,5,1,Breathing Exercise,3,44,0.37,Morning,9,55,18,19,-1,0
+Product Manager,Junior,100-500,Hybrid,48,Monthly,5,1,Journaling,2,22,0.93,Evening,20,58,21,18,3,1
+DevOps,Junior,500-1000,Remote,48,Monthly,2,1,Breathing Exercise,4,20,1.0,Evening,5,46,21,19,2,0
+Software Engineer,Senior,26-100,In-office,53,Rarely,3,0,Journaling,5,33,0.41,Evening,4,39,22,23,-1,0
+Designer,Senior,100-500,Remote,47,Weekly,9,0,Journaling,5,15,0.34,Morning,16,60,22,16,6,1
+DevOps,Mid-level,100-500,Remote,48,Rarely,7,0,Body Scan,2,10,0.53,Evening,2,46,22,18,4,1
+Software Engineer,Junior,More than 1000,Remote,41,Weekly,1,0,Breathing Exercise,1,7,0.62,Evening,16,44,20,14,6,1
+QA Engineer,Junior,500-1000,Remote,44,Weekly,3,1,Breathing Exercise,5,18,0.44,Morning,18,48,20,14,6,1
+Engineering Manager,Manager,26-100,Remote,52,Monthly,2,1,Focus Session,1,6,0.51,Evening,2,57,21,21,0,0
+Software Engineer,Mid-level,More than 1000,In-office,30,Rarely,1,1,Focus Session,4,36,0.44,Morning,16,45,16,12,4,1
+Software Engineer,Senior,More than 1000,In-office,44,Rarely,9,1,Guided Meditation,1,35,0.84,Morning,1,55,20,18,2,0
+QA Engineer,Senior,500-1000,Remote,53,Monthly,8,1,Journaling,2,15,0.8,Afternoon,16,43,19,20,-1,0
+Designer,Mid-level,26-100,Remote,62,Weekly,5,0,Body Scan,2,26,0.74,Evening,3,51,22,25,-3,0
+Software Engineer,Mid-level,500-1000,Remote,43,Monthly,2,0,Focus Session,1,7,0.57,Morning,15,36,19,17,2,0
+Software Engineer,Junior,26-100,Remote,58,Weekly,1,1,Breathing Exercise,5,35,0.94,Morning,11,56,22,19,3,1
+Data Scientist,Senior,500-1000,Remote,62,Monthly,7,0,Guided Meditation,1,37,0.98,Morning,10,38,24,24,0,0
+Data Scientist,Senior,More than 1000,In-office,44,Rarely,2,0,Body Scan,5,28,0.42,Morning,17,50,18,16,2,0
+Product Manager,Senior,More than 1000,Remote,42,Never,1,0,Sleep Practice,5,5,0.46,Morning,4,30,18,11,7,1
+Data Scientist,Senior,1-25,Hybrid,45,Never,2,1,Breathing Exercise,2,19,0.67,Afternoon,17,45,17,22,-5,0
+Data Scientist,Junior,100-500,Remote,46,Rarely,7,0,Breathing Exercise,4,41,0.36,Evening,4,47,21,17,4,1
+Designer,Manager,500-1000,In-office,57,Monthly,7,1,Sleep Practice,2,31,0.61,Afternoon,19,38,22,19,3,1
+Software Engineer,Lead/Staff,1-25,Hybrid,40,Daily,6,1,Journaling,4,42,0.71,Evening,1,44,19,15,4,1
+Software Engineer,Mid-level,100-500,In-office,61,Weekly,5,0,Journaling,3,31,0.67,Evening,14,48,24,27,-3,0
+DevOps,Manager,500-1000,In-office,40,Rarely,3,1,Focus Session,2,16,0.53,Morning,11,51,18,17,1,0
+QA Engineer,Senior,26-100,Remote,36,Rarely,3,1,Focus Session,2,7,0.68,Morning,7,46,18,18,0,0
+Product Manager,Senior,100-500,Remote,52,Rarely,9,1,Breathing Exercise,3,34,0.97,Night,17,58,21,18,3,1
+Product Manager,Senior,More than 1000,Hybrid,58,Rarely,4,1,Breathing Exercise,5,36,0.44,Morning,4,57,22,23,-1,0
+Software Engineer,Lead/Staff,1-25,Remote,49,Monthly,9,0,Focus Session,1,27,0.76,Morning,10,45,21,19,2,0
+Data Scientist,Senior,100-500,Hybrid,51,Monthly,4,1,Sleep Practice,3,6,0.33,Morning,17,32,21,23,-2,0
+Product Manager,Junior,100-500,Remote,65,Rarely,2,0,Focus Session,2,11,0.35,Evening,4,40,25,26,-1,0
+Software Engineer,Mid-level,More than 1000,Remote,58,Never,4,1,Breathing Exercise,4,38,0.69,Evening,19,23,20,14,6,1
+Software Engineer,Manager,500-1000,Hybrid,47,Never,6,1,Body Scan,1,36,0.37,Night,18,43,22,18,4,1
+Data Scientist,Mid-level,26-100,Hybrid,43,Rarely,6,1,Breathing Exercise,3,43,0.32,Night,17,59,19,16,3,1
+Software Engineer,Mid-level,More than 1000,In-office,57,Weekly,5,0,Body Scan,1,36,0.42,Afternoon,6,53,23,27,-4,0
+Software Engineer,Mid-level,26-100,Remote,54,Rarely,1,0,Body Scan,3,18,0.7,Afternoon,7,46,22,19,3,1
+Software Engineer,Mid-level,500-1000,Hybrid,51,Monthly,3,0,Breathing Exercise,4,7,0.79,Morning,6,38,21,18,3,1
+Software Engineer,Senior,100-500,Remote,44,Monthly,5,0,Guided Meditation,4,36,0.44,Morning,12,46,19,23,-4,0
+Software Engineer,Manager,26-100,Remote,46,Daily,6,0,Focus Session,4,40,0.77,Morning,9,66,21,18,3,1
+QA Engineer,Mid-level,1-25,Hybrid,46,Daily,1,0,Journaling,3,21,0.43,Morning,18,60,23,25,-2,0
+Product Manager,Junior,1-25,Remote,44,Weekly,9,0,Breathing Exercise,5,7,0.73,Morning,2,43,21,23,-2,0
+DevOps,Junior,More than 1000,Remote,42,Never,3,1,Body Scan,3,14,0.59,Morning,17,30,19,20,-1,0
+Designer,Lead/Staff,500-1000,Remote,49,Monthly,3,0,Breathing Exercise,5,44,0.76,Morning,21,67,20,24,-4,0
+Data Scientist,Senior,More than 1000,Remote,41,Weekly,2,1,Focus Session,3,22,1.0,Night,1,38,20,20,0,0
+Software Engineer,Mid-level,More than 1000,Remote,49,Never,8,1,Sleep Practice,3,7,0.96,Evening,23,50,21,22,-1,0
+Product Manager,Lead/Staff,More than 1000,Remote,30,Monthly,3,0,Body Scan,2,43,0.3,Night,9,29,17,12,5,1
+Product Manager,Lead/Staff,1-25,Remote,42,Daily,6,1,Journaling,3,14,0.92,Afternoon,6,42,20,20,0,0
+Designer,Lead/Staff,1-25,Remote,57,Monthly,2,0,Journaling,1,13,0.35,Afternoon,2,29,21,23,-2,0
+Data Scientist,Manager,More than 1000,Hybrid,39,Never,7,1,Journaling,5,15,0.97,Morning,6,33,21,23,-2,0
+Software Engineer,Mid-level,1-25,Remote,52,Never,4,0,Sleep Practice,3,37,0.5,Morning,9,36,21,21,0,0
+Software Engineer,Senior,500-1000,Remote,40,Monthly,9,0,Guided Meditation,7,40,0.57,Morning,3,50,23,16,7,1
+Data Scientist,Mid-level,More than 1000,Remote,54,Rarely,9,1,Body Scan,1,30,0.36,Night,16,44,22,16,6,1
+DevOps,Lead/Staff,1-25,Hybrid,44,Weekly,7,0,Sleep Practice,2,31,0.38,Night,15,72,21,21,0,0
+Product Manager,Senior,26-100,In-office,44,Weekly,8,1,Body Scan,5,42,0.81,Morning,12,56,20,18,2,0
+Data Scientist,Senior,More than 1000,In-office,47,Rarely,3,0,Sleep Practice,2,26,0.96,Morning,23,57,19,15,4,1
+Engineering Manager,Senior,More than 1000,Hybrid,35,Daily,5,0,Sleep Practice,3,30,0.73,Afternoon,8,50,18,20,-2,0
+Product Manager,Junior,500-1000,Hybrid,56,Monthly,2,0,Guided Meditation,5,26,0.8,Morning,6,48,21,18,3,1
+Software Engineer,Senior,100-500,Hybrid,59,Never,7,0,Body Scan,3,9,0.83,Afternoon,3,57,22,13,9,1
+Software Engineer,Manager,100-500,Hybrid,44,Weekly,8,0,Sleep Practice,1,39,0.48,Morning,23,21,22,19,3,1
+Software Engineer,Manager,500-1000,Remote,52,Weekly,9,0,Guided Meditation,5,6,0.33,Afternoon,4,39,23,19,4,1
+Software Engineer,Junior,500-1000,Remote,54,Weekly,7,0,Breathing Exercise,1,39,0.3,Morning,10,31,24,20,4,1
+Software Engineer,Junior,500-1000,Remote,46,Daily,8,1,Focus Session,5,13,0.55,Afternoon,14,26,22,18,4,1
+Software Engineer,Junior,100-500,In-office,37,Weekly,9,0,Sleep Practice,1,22,0.47,Morning,21,37,19,19,0,0
+Software Engineer,Senior,500-1000,Hybrid,61,Daily,6,1,Journaling,3,16,0.34,Afternoon,15,34,22,25,-3,0
+Software Engineer,Lead/Staff,1-25,Hybrid,43,Monthly,2,0,Guided Meditation,1,7,0.43,Night,7,57,19,18,1,0
+QA Engineer,Mid-level,More than 1000,Remote,42,Weekly,2,1,Guided Meditation,4,22,0.39,Morning,7,46,19,20,-1,0
+Software Engineer,Senior,More than 1000,Hybrid,62,Daily,4,0,Sleep Practice,1,42,0.94,Night,8,25,25,26,-1,0
+Product Manager,Lead/Staff,26-100,Remote,52,Weekly,9,0,Guided Meditation,4,11,0.4,Evening,10,48,22,23,-1,0
+Data Scientist,Senior,26-100,Remote,49,Never,7,0,Breathing Exercise,3,37,0.68,Night,19,35,24,23,1,0
+Engineering Manager,Senior,More than 1000,In-office,38,Monthly,2,0,Guided Meditation,1,10,0.72,Evening,19,46,18,21,-3,0
+Software Engineer,Senior,1-25,Hybrid,54,Monthly,8,1,Focus Session,4,22,0.68,Evening,2,49,23,24,-1,0
+Data Scientist,Senior,100-500,Remote,73,Rarely,7,0,Focus Session,3,26,0.37,Night,15,37,25,23,2,0
+Engineering Manager,Mid-level,100-500,In-office,55,Daily,9,1,Journaling,1,43,0.52,Morning,1,47,23,21,2,0
+QA Engineer,Senior,1-25,Remote,51,Rarely,8,0,Breathing Exercise,1,13,0.34,Afternoon,10,49,21,19,2,0
+QA Engineer,Senior,100-500,In-office,53,Rarely,3,0,Focus Session,2,39,0.58,Night,6,43,21,21,0,0
+Software Engineer,Lead/Staff,500-1000,Remote,44,Daily,1,1,Sleep Practice,1,27,0.43,Evening,22,38,19,18,1,0
+Software Engineer,Senior,More than 1000,Remote,44,Monthly,2,0,Body Scan,1,16,0.69,Night,13,45,20,13,7,1
+DevOps,Senior,More than 1000,Remote,44,Never,2,1,Body Scan,2,28,0.78,Evening,10,44,20,20,0,0
+Engineering Manager,Junior,1-25,Remote,42,Monthly,4,0,Body Scan,3,44,0.67,Night,12,48,18,11,7,1
+Product Manager,Mid-level,100-500,Remote,44,Weekly,6,1,Sleep Practice,3,13,0.6,Evening,6,42,20,23,-3,0
+Product Manager,Junior,26-100,Hybrid,44,Never,4,0,Guided Meditation,1,17,0.57,Evening,6,33,20,24,-4,0
+Software Engineer,Mid-level,26-100,In-office,45,Daily,9,1,Sleep Practice,6,44,0.89,Evening,1,43,22,21,1,0
+Designer,Senior,100-500,In-office,45,Monthly,4,1,Guided Meditation,5,21,0.45,Night,12,48,22,20,2,0
+Software Engineer,Manager,26-100,Remote,49,Monthly,6,0,Body Scan,2,11,0.81,Evening,23,47,21,23,-2,0
+Software Engineer,Junior,1-25,Hybrid,48,Monthly,6,0,Journaling,1,21,0.83,Evening,23,44,20,20,0,0
+Data Scientist,Mid-level,1-25,Remote,49,Weekly,1,0,Journaling,6,28,0.59,Evening,10,40,20,17,3,1
+Product Manager,Lead/Staff,100-500,Remote,61,Rarely,8,1,Guided Meditation,3,6,0.51,Morning,14,40,23,25,-2,0
+Software Engineer,Mid-level,26-100,Hybrid,48,Rarely,3,0,Body Scan,2,39,0.63,Morning,15,41,19,14,5,1
+Software Engineer,Senior,1-25,Hybrid,67,Monthly,6,0,Sleep Practice,3,32,0.37,Night,23,56,24,20,4,1
+Product Manager,Senior,1-25,Remote,50,Weekly,3,0,Journaling,4,23,0.33,Evening,4,36,21,16,5,1
+Software Engineer,Senior,500-1000,Remote,43,Never,2,0,Guided Meditation,1,37,0.38,Morning,1,46,20,22,-2,0
+Product Manager,Junior,500-1000,In-office,59,Weekly,5,1,Sleep Practice,4,25,0.43,Morning,8,32,23,25,-2,0
+Software Engineer,Mid-level,1-25,Remote,46,Weekly,1,1,Body Scan,4,14,0.65,Evening,3,53,21,20,1,0
+Data Scientist,Lead/Staff,100-500,Hybrid,30,Rarely,9,0,Breathing Exercise,3,13,0.89,Evening,14,40,17,15,2,0
+Product Manager,Senior,More than 1000,Hybrid,47,Never,7,1,Body Scan,5,42,0.46,Evening,17,37,22,20,2,0
+Software Engineer,Junior,More than 1000,Remote,45,Rarely,3,0,Body Scan,1,10,0.95,Evening,2,47,19,15,4,1
+Software Engineer,Senior,1-25,Remote,61,Monthly,4,0,Sleep Practice,3,39,0.97,Afternoon,15,20,23,20,3,1
+Software Engineer,Junior,1-25,Remote,39,Never,6,0,Sleep Practice,2,22,0.97,Morning,6,32,19,20,-1,0
+Software Engineer,Senior,1-25,In-office,44,Monthly,3,1,Focus Session,2,23,0.89,Morning,5,49,20,22,-2,0
+Engineering Manager,Mid-level,100-500,Hybrid,58,Monthly,7,1,Focus Session,2,9,0.55,Evening,14,55,23,26,-3,0
+Software Engineer,Manager,500-1000,Hybrid,51,Monthly,6,1,Sleep Practice,2,29,0.35,Morning,19,50,20,22,-2,0
+QA Engineer,Mid-level,1-25,In-office,45,Rarely,9,0,Sleep Practice,1,15,0.7,Evening,9,46,20,16,4,1
+Software Engineer,Mid-level,1-25,In-office,40,Monthly,5,0,Breathing Exercise,2,14,0.69,Evening,8,69,20,18,2,0
+DevOps,Junior,26-100,Hybrid,50,Weekly,4,0,Breathing Exercise,2,21,0.89,Evening,3,50,21,17,4,1
+Designer,Mid-level,100-500,Hybrid,47,Daily,3,1,Body Scan,4,40,1.0,Night,18,35,20,23,-3,0
+Product Manager,Lead/Staff,1-25,Hybrid,40,Daily,1,1,Journaling,1,30,0.66,Morning,8,55,18,16,2,0
+Data Scientist,Manager,26-100,Hybrid,41,Monthly,3,1,Breathing Exercise,3,35,0.54,Evening,16,39,19,16,3,1
+Data Scientist,Mid-level,More than 1000,Hybrid,40,Monthly,3,0,Body Scan,2,36,0.43,Morning,15,38,20,15,5,1
+Software Engineer,Mid-level,1-25,Hybrid,38,Rarely,7,0,Guided Meditation,1,25,0.3,Morning,21,31,18,18,0,0
+Engineering Manager,Senior,1-25,Remote,55,Never,7,0,Focus Session,2,22,0.66,Afternoon,15,41,23,23,0,0
+QA Engineer,Lead/Staff,26-100,Hybrid,54,Never,1,0,Journaling,2,22,0.69,Morning,16,33,22,16,6,1
+Engineering Manager,Senior,100-500,Remote,55,Weekly,3,0,Body Scan,3,5,0.88,Evening,1,51,21,20,1,0
+Software Engineer,Mid-level,1-25,Remote,47,Rarely,8,0,Sleep Practice,2,18,0.65,Evening,10,44,20,18,2,0
+Designer,Mid-level,More than 1000,Remote,45,Rarely,9,0,Guided Meditation,6,12,0.94,Morning,19,31,18,14,4,1
+Engineering Manager,Senior,1-25,Hybrid,45,Daily,7,1,Focus Session,6,6,0.74,Morning,5,44,20,23,-3,0
+Software Engineer,Junior,More than 1000,Hybrid,56,Rarely,7,1,Guided Meditation,2,19,0.89,Evening,18,55,21,19,2,0
+Software Engineer,Senior,500-1000,Remote,31,Never,8,0,Body Scan,4,38,0.4,Evening,3,61,16,17,-1,0
+Designer,Mid-level,500-1000,Hybrid,42,Never,6,0,Breathing Exercise,1,40,0.9,Afternoon,4,27,19,18,1,0
+Product Manager,Lead/Staff,More than 1000,Hybrid,39,Monthly,3,0,Focus Session,3,5,0.77,Evening,4,37,19,18,1,0
+QA Engineer,Junior,100-500,Remote,59,Weekly,1,1,Guided Meditation,4,25,0.42,Evening,11,32,24,24,0,0
+Software Engineer,Senior,1-25,Hybrid,43,Monthly,7,1,Breathing Exercise,2,5,0.43,Evening,9,49,20,17,3,1
+Designer,Mid-level,1-25,In-office,32,Monthly,1,1,Journaling,1,36,0.95,Morning,1,31,15,14,1,0
+Software Engineer,Senior,500-1000,In-office,49,Weekly,1,1,Body Scan,1,24,0.32,Evening,16,56,20,22,-2,0
+Software Engineer,Junior,More than 1000,Hybrid,44,Weekly,9,0,Body Scan,2,40,0.62,Evening,9,57,21,23,-2,0
+Software Engineer,Senior,1-25,Hybrid,42,Daily,7,0,Focus Session,3,43,0.52,Evening,11,53,20,16,4,1
+QA Engineer,Senior,1-25,Remote,41,Weekly,4,0,Guided Meditation,2,34,0.77,Evening,6,38,20,19,1,0
+DevOps,Senior,100-500,Remote,41,Monthly,6,0,Journaling,2,11,0.89,Night,17,38,19,22,-3,0
+Product Manager,Senior,26-100,Remote,53,Rarely,1,1,Sleep Practice,3,26,0.55,Morning,12,40,22,22,0,0
+Data Scientist,Senior,500-1000,In-office,49,Never,7,0,Focus Session,4,14,0.6,Night,22,56,21,19,2,0
+QA Engineer,Lead/Staff,500-1000,Remote,45,Never,6,0,Sleep Practice,1,12,0.99,Evening,8,28,20,23,-3,0
+Data Scientist,Mid-level,26-100,Remote,37,Weekly,4,0,Focus Session,4,31,0.85,Evening,16,49,19,19,0,0
+QA Engineer,Lead/Staff,1-25,In-office,45,Weekly,7,1,Guided Meditation,3,14,0.93,Morning,5,36,20,16,4,1
+Data Scientist,Mid-level,100-500,In-office,49,Monthly,3,0,Journaling,4,18,0.61,Afternoon,21,41,20,11,9,1
+Data Scientist,Junior,100-500,In-office,50,Never,1,1,Guided Meditation,4,15,0.46,Evening,1,52,20,17,3,1
+Data Scientist,Junior,500-1000,Remote,48,Monthly,4,0,Body Scan,3,10,0.59,Evening,17,30,19,21,-2,0
+Software Engineer,Mid-level,100-500,Remote,39,Daily,3,0,Sleep Practice,2,25,0.8,Morning,21,42,19,18,1,0
+Designer,Lead/Staff,26-100,Remote,30,Monthly,1,0,Breathing Exercise,3,37,0.38,Evening,8,44,18,16,2,0
+Product Manager,Senior,1-25,Remote,63,Weekly,2,1,Body Scan,6,23,0.49,Morning,10,45,23,19,4,1
+Software Engineer,Lead/Staff,26-100,Remote,35,Weekly,5,0,Body Scan,3,43,0.33,Night,18,44,20,16,4,1
+QA Engineer,Senior,More than 1000,Hybrid,30,Daily,8,1,Sleep Practice,1,28,0.6,Night,15,51,19,14,5,1
+Data Scientist,Mid-level,500-1000,In-office,48,Weekly,1,0,Focus Session,1,22,0.88,Morning,20,40,19,18,1,0
+Product Manager,Junior,100-500,Remote,32,Weekly,4,0,Body Scan,7,39,0.32,Night,13,49,19,16,3,1
+Engineering Manager,Mid-level,More than 1000,Hybrid,40,Rarely,4,1,Journaling,1,41,0.77,Night,10,48,18,22,-4,0
+DevOps,Mid-level,100-500,Hybrid,52,Never,5,0,Body Scan,1,23,0.95,Afternoon,9,48,21,23,-2,0
+Software Engineer,Junior,1-25,Remote,63,Monthly,7,1,Journaling,2,28,0.47,Evening,13,50,23,26,-3,0
+Engineering Manager,Mid-level,1-25,Hybrid,50,Never,8,1,Guided Meditation,6,38,0.79,Afternoon,3,48,20,20,0,0
+DevOps,Senior,1-25,Remote,43,Daily,6,0,Focus Session,2,26,0.98,Evening,22,44,23,25,-2,0
+Software Engineer,Senior,100-500,Remote,47,Rarely,1,1,Journaling,2,8,0.97,Morning,23,32,20,21,-1,0
+Software Engineer,Manager,More than 1000,Hybrid,31,Daily,7,0,Body Scan,3,14,0.46,Morning,3,59,20,15,5,1
+Designer,Manager,1-25,Remote,43,Monthly,3,0,Focus Session,1,6,0.37,Afternoon,1,62,20,25,-5,0
+DevOps,Senior,More than 1000,In-office,43,Rarely,6,0,Focus Session,5,12,0.4,Morning,2,41,19,18,1,0
+Product Manager,Mid-level,100-500,Remote,48,Daily,8,1,Journaling,3,37,0.79,Evening,11,50,21,17,4,1
+QA Engineer,Senior,More than 1000,Hybrid,64,Monthly,7,0,Journaling,3,42,0.81,Morning,14,40,24,24,0,0
+Designer,Lead/Staff,100-500,Hybrid,30,Monthly,6,1,Breathing Exercise,5,32,0.77,Afternoon,10,38,17,10,7,1
+Software Engineer,Junior,100-500,Remote,43,Never,9,1,Breathing Exercise,6,14,0.54,Night,7,46,20,19,1,0
+Software Engineer,Mid-level,500-1000,Remote,30,Weekly,9,0,Focus Session,2,5,0.42,Afternoon,23,73,19,12,7,1
+Software Engineer,Lead/Staff,100-500,Hybrid,42,Rarely,1,0,Sleep Practice,1,38,0.71,Evening,1,61,19,23,-4,0
+Designer,Mid-level,100-500,In-office,39,Monthly,1,0,Sleep Practice,4,7,0.64,Night,7,59,19,13,6,1
+Software Engineer,Senior,26-100,In-office,34,Monthly,1,0,Breathing Exercise,2,13,0.81,Night,15,50,19,20,-1,0
+Product Manager,Senior,1-25,Hybrid,55,Weekly,8,0,Body Scan,6,9,0.61,Morning,11,36,22,16,6,1
+Designer,Junior,500-1000,In-office,49,Weekly,7,1,Guided Meditation,6,14,0.54,Afternoon,6,55,22,21,1,0
+QA Engineer,Mid-level,500-1000,Hybrid,54,Monthly,3,1,Focus Session,1,16,0.51,Night,22,17,23,19,4,1
+Software Engineer,Mid-level,500-1000,Hybrid,42,Rarely,2,1,Guided Meditation,6,22,0.45,Afternoon,7,49,20,14,6,1
+QA Engineer,Junior,26-100,Hybrid,46,Weekly,4,1,Breathing Exercise,2,25,0.49,Afternoon,7,56,19,19,0,0
+Software Engineer,Junior,100-500,Hybrid,61,Rarely,3,1,Journaling,3,25,0.37,Morning,1,47,24,20,4,1
+QA Engineer,Lead/Staff,1-25,In-office,47,Monthly,7,0,Focus Session,1,5,0.54,Morning,10,62,20,19,1,0
+Software Engineer,Mid-level,More than 1000,Remote,54,Monthly,8,1,Breathing Exercise,5,7,0.33,Evening,21,31,20,22,-2,0
+Data Scientist,Senior,100-500,In-office,41,Daily,6,1,Body Scan,3,9,0.43,Evening,15,61,22,19,3,1
+Designer,Mid-level,26-100,Hybrid,53,Monthly,3,0,Focus Session,3,29,0.82,Night,8,43,22,24,-2,0
+Software Engineer,Manager,100-500,Remote,42,Monthly,6,1,Focus Session,5,12,0.53,Evening,19,60,20,19,1,0
+Software Engineer,Mid-level,100-500,Remote,30,Weekly,2,0,Sleep Practice,3,21,0.77,Morning,3,55,17,18,-1,0
+Designer,Mid-level,26-100,Remote,47,Weekly,7,1,Journaling,2,13,0.8,Morning,23,60,21,18,3,1
+Designer,Lead/Staff,500-1000,Hybrid,43,Never,7,1,Focus Session,5,36,0.71,Night,15,55,19,19,0,0
+DevOps,Lead/Staff,500-1000,In-office,32,Monthly,4,1,Journaling,4,10,0.97,Morning,4,52,17,18,-1,0
+DevOps,Junior,1-25,Remote,49,Weekly,8,0,Breathing Exercise,6,44,0.32,Morning,6,59,21,22,-1,0
+Product Manager,Lead/Staff,1-25,In-office,39,Daily,4,1,Body Scan,6,25,0.82,Night,10,46,19,19,0,0
+Software Engineer,Mid-level,500-1000,In-office,75,Weekly,7,0,Body Scan,2,11,0.97,Evening,18,51,25,23,2,0
+Software Engineer,Mid-level,More than 1000,Remote,34,Monthly,4,0,Focus Session,2,11,0.9,Morning,16,45,18,13,5,1
+Software Engineer,Junior,100-500,In-office,36,Rarely,5,1,Focus Session,2,43,0.42,Night,18,38,16,12,4,1
+Engineering Manager,Junior,More than 1000,In-office,55,Daily,7,1,Breathing Exercise,3,31,0.53,Night,6,50,24,23,1,0
+Product Manager,Senior,100-500,Hybrid,46,Weekly,3,1,Sleep Practice,2,12,0.42,Morning,19,47,20,19,1,0
+Data Scientist,Mid-level,500-1000,In-office,55,Rarely,5,0,Sleep Practice,4,13,0.72,Night,17,58,21,20,1,0
+Data Scientist,Mid-level,1-25,In-office,50,Rarely,3,0,Sleep Practice,1,32,0.8,Afternoon,18,43,21,19,2,0
+Engineering Manager,Senior,1-25,Hybrid,42,Weekly,5,1,Journaling,1,19,0.52,Evening,13,37,19,15,4,1
+Software Engineer,Senior,More than 1000,Remote,35,Rarely,3,0,Sleep Practice,2,6,0.68,Night,7,57,18,17,1,0
+Product Manager,Junior,1-25,In-office,57,Rarely,7,0,Body Scan,1,11,0.78,Night,20,46,23,20,3,1
+Product Manager,Senior,500-1000,Hybrid,35,Rarely,1,1,Journaling,3,22,0.59,Morning,12,37,16,18,-2,0
+Product Manager,Junior,More than 1000,Hybrid,52,Rarely,9,0,Breathing Exercise,1,26,0.9,Morning,2,59,24,20,4,1
+Software Engineer,Senior,100-500,Remote,55,Monthly,9,1,Body Scan,1,14,0.84,Morning,12,54,24,22,2,0
+QA Engineer,Senior,1-25,In-office,46,Weekly,5,0,Body Scan,1,37,0.35,Evening,12,63,20,22,-2,0
+Engineering Manager,Manager,26-100,Remote,44,Rarely,9,0,Guided Meditation,4,11,0.73,Morning,4,42,19,14,5,1
+Product Manager,Junior,1-25,In-office,38,Rarely,6,0,Breathing Exercise,4,7,0.46,Afternoon,4,40,18,20,-2,0
+DevOps,Junior,100-500,Remote,51,Rarely,5,0,Breathing Exercise,1,18,0.69,Morning,18,34,20,26,-6,0
+Engineering Manager,Mid-level,More than 1000,Remote,30,Monthly,3,0,Guided Meditation,4,40,0.97,Afternoon,16,39,18,13,5,1
+DevOps,Mid-level,100-500,Hybrid,53,Rarely,8,0,Journaling,2,17,0.92,Morning,14,41,21,18,3,1
+Software Engineer,Mid-level,26-100,Remote,48,Monthly,4,0,Sleep Practice,2,20,0.58,Evening,17,52,19,21,-2,0
+Product Manager,Manager,500-1000,Hybrid,45,Weekly,3,0,Sleep Practice,3,20,0.5,Morning,17,36,20,18,2,0
+Product Manager,Mid-level,1-25,In-office,49,Never,6,0,Sleep Practice,1,9,0.46,Morning,3,38,19,15,4,1
+Data Scientist,Mid-level,More than 1000,In-office,35,Never,8,0,Sleep Practice,4,29,0.67,Night,6,62,19,16,3,1
+Designer,Senior,500-1000,Remote,30,Never,9,0,Sleep Practice,1,42,0.38,Evening,23,16,18,9,9,1
+Engineering Manager,Mid-level,100-500,Remote,51,Monthly,6,1,Guided Meditation,6,42,0.68,Morning,13,50,21,21,0,0
+Engineering Manager,Senior,More than 1000,In-office,59,Daily,5,1,Breathing Exercise,1,42,0.3,Morning,9,32,22,29,-7,0
+Data Scientist,Junior,500-1000,In-office,31,Never,2,1,Journaling,3,43,0.53,Evening,21,37,17,19,-2,0
+Software Engineer,Mid-level,More than 1000,Hybrid,38,Daily,2,0,Body Scan,5,30,0.45,Afternoon,9,59,18,23,-5,0
+Engineering Manager,Junior,26-100,Hybrid,54,Never,9,1,Sleep Practice,1,17,0.98,Evening,8,46,21,14,7,1
+QA Engineer,Junior,26-100,Remote,50,Weekly,2,1,Guided Meditation,3,30,0.81,Afternoon,17,72,20,18,2,0
+Software Engineer,Manager,1-25,In-office,74,Monthly,2,1,Journaling,2,5,0.54,Morning,16,51,24,18,6,1
+Engineering Manager,Junior,1-25,Hybrid,57,Weekly,3,0,Journaling,3,12,0.36,Afternoon,16,37,22,22,0,0
+QA Engineer,Senior,26-100,Remote,55,Monthly,3,1,Journaling,2,8,0.66,Evening,19,51,20,21,-1,0
+Product Manager,Mid-level,More than 1000,Remote,40,Monthly,4,1,Guided Meditation,1,25,0.45,Night,16,56,20,24,-4,0
+Product Manager,Mid-level,26-100,In-office,52,Weekly,7,1,Body Scan,3,26,0.68,Morning,14,50,21,21,0,0
+Data Scientist,Lead/Staff,1-25,Remote,60,Weekly,9,0,Sleep Practice,2,41,0.88,Evening,20,43,23,20,3,1
+Software Engineer,Junior,26-100,Remote,46,Monthly,2,0,Journaling,3,7,0.73,Morning,14,28,20,19,1,0
+Software Engineer,Senior,26-100,Hybrid,46,Never,4,0,Guided Meditation,2,23,0.74,Afternoon,14,42,19,22,-3,0
+QA Engineer,Manager,More than 1000,Remote,48,Never,9,0,Breathing Exercise,2,5,0.68,Night,14,62,20,16,4,1
+Software Engineer,Senior,500-1000,Remote,41,Weekly,2,1,Guided Meditation,3,33,0.95,Afternoon,12,37,20,16,4,1
+Software Engineer,Manager,1-25,In-office,49,Monthly,1,0,Guided Meditation,3,27,0.95,Night,6,41,20,20,0,0
+Data Scientist,Junior,More than 1000,In-office,49,Monthly,8,0,Guided Meditation,2,37,0.66,Evening,20,55,22,22,0,0
+Product Manager,Mid-level,26-100,In-office,60,Weekly,9,0,Journaling,2,27,0.51,Night,13,51,24,28,-4,0
+Engineering Manager,Mid-level,26-100,In-office,45,Daily,7,0,Guided Meditation,2,9,0.62,Evening,16,32,21,18,3,1
+Software Engineer,Senior,500-1000,Hybrid,53,Weekly,8,0,Breathing Exercise,1,11,0.43,Morning,9,44,23,24,-1,0
+Software Engineer,Manager,1-25,In-office,46,Weekly,4,1,Journaling,2,10,0.75,Morning,2,59,20,27,-7,0
+Designer,Mid-level,1-25,Remote,53,Weekly,4,1,Breathing Exercise,1,26,0.65,Afternoon,22,45,21,24,-3,0
+Data Scientist,Senior,100-500,Hybrid,45,Monthly,2,0,Focus Session,3,17,0.37,Morning,3,59,21,18,3,1
+Software Engineer,Junior,1-25,In-office,52,Rarely,8,0,Guided Meditation,3,16,0.44,Afternoon,10,60,22,21,1,0
+Data Scientist,Senior,500-1000,Remote,54,Weekly,2,0,Sleep Practice,2,8,0.64,Afternoon,20,36,21,24,-3,0
+Software Engineer,Mid-level,100-500,Remote,37,Monthly,9,0,Sleep Practice,2,12,0.92,Night,2,42,20,19,1,0
+Software Engineer,Manager,100-500,Hybrid,57,Daily,4,1,Journaling,2,41,0.7,Afternoon,10,52,23,25,-2,0
+Data Scientist,Senior,26-100,Remote,46,Never,1,1,Sleep Practice,3,35,0.78,Evening,8,30,20,20,0,0
+Data Scientist,Mid-level,26-100,Remote,43,Never,4,1,Journaling,5,41,0.54,Night,17,43,18,16,2,0
+Engineering Manager,Junior,1-25,In-office,41,Daily,3,1,Guided Meditation,3,30,0.7,Night,22,50,19,12,7,1
+Data Scientist,Junior,100-500,In-office,50,Weekly,6,0,Body Scan,4,12,0.61,Morning,1,39,22,16,6,1
+Product Manager,Mid-level,26-100,Hybrid,47,Monthly,7,1,Body Scan,4,44,0.76,Afternoon,6,51,22,26,-4,0
+DevOps,Mid-level,500-1000,Remote,50,Weekly,8,1,Breathing Exercise,2,37,0.34,Morning,7,39,21,20,1,0
+Software Engineer,Lead/Staff,26-100,Remote,51,Weekly,2,1,Guided Meditation,1,33,0.65,Afternoon,15,39,21,25,-4,0
+DevOps,Senior,26-100,In-office,52,Monthly,6,0,Sleep Practice,3,9,0.51,Afternoon,18,52,21,23,-2,0
+Software Engineer,Senior,100-500,Hybrid,72,Never,6,1,Guided Meditation,1,32,0.53,Evening,9,59,23,28,-5,0
+Engineering Manager,Junior,100-500,Remote,47,Weekly,5,1,Focus Session,3,44,0.97,Afternoon,8,38,20,21,-1,0
+Software Engineer,Lead/Staff,More than 1000,Hybrid,40,Daily,7,1,Body Scan,4,21,0.43,Evening,10,33,18,20,-2,0
+Data Scientist,Senior,500-1000,Remote,30,Rarely,3,0,Sleep Practice,4,27,0.52,Night,4,45,17,12,5,1
+Software Engineer,Junior,100-500,Hybrid,36,Daily,4,1,Body Scan,2,13,0.66,Morning,20,50,18,19,-1,0
+Engineering Manager,Senior,1-25,In-office,58,Daily,9,1,Guided Meditation,3,6,0.9,Afternoon,8,38,24,29,-5,0
+Product Manager,Senior,500-1000,Hybrid,53,Monthly,4,1,Sleep Practice,3,36,0.59,Evening,1,62,21,20,1,0
+Product Manager,Junior,500-1000,Hybrid,35,Weekly,3,1,Breathing Exercise,4,35,0.82,Morning,8,44,18,16,2,0
+Software Engineer,Mid-level,100-500,Remote,69,Monthly,2,1,Guided Meditation,4,11,0.9,Evening,23,38,25,24,1,0
+Designer,Mid-level,500-1000,Hybrid,50,Rarely,5,0,Breathing Exercise,7,34,0.52,Morning,12,64,21,16,5,1
+Software Engineer,Junior,100-500,Hybrid,51,Weekly,4,1,Sleep Practice,1,7,0.57,Night,23,58,23,18,5,1
+QA Engineer,Manager,26-100,Remote,67,Daily,8,0,Body Scan,2,13,0.55,Morning,15,38,25,25,0,0
+Software Engineer,Lead/Staff,More than 1000,Hybrid,63,Weekly,7,1,Focus Session,2,14,0.88,Morning,13,56,25,23,2,0
+Software Engineer,Senior,26-100,Remote,54,Monthly,6,0,Journaling,1,30,0.33,Evening,16,38,21,21,0,0
+Software Engineer,Mid-level,100-500,In-office,54,Rarely,2,0,Body Scan,5,5,0.52,Morning,23,53,20,16,4,1
+Data Scientist,Mid-level,100-500,Hybrid,55,Never,3,1,Breathing Exercise,7,34,0.78,Morning,18,63,21,22,-1,0
+Product Manager,Senior,26-100,In-office,45,Monthly,9,1,Guided Meditation,1,42,0.7,Afternoon,1,33,22,19,3,1
+Software Engineer,Senior,1-25,Remote,50,Never,9,1,Sleep Practice,1,19,0.61,Afternoon,17,40,21,19,2,0
+Designer,Junior,1-25,In-office,52,Monthly,5,1,Body Scan,2,29,0.68,Evening,16,40,20,22,-2,0
+Data Scientist,Senior,1-25,Hybrid,46,Monthly,3,1,Focus Session,4,10,0.44,Evening,23,48,20,11,9,1
+Product Manager,Lead/Staff,100-500,In-office,38,Weekly,2,0,Sleep Practice,2,22,0.6,Evening,5,50,19,22,-3,0
+Data Scientist,Mid-level,500-1000,Remote,45,Rarely,8,0,Breathing Exercise,1,5,0.65,Evening,20,44,20,17,3,1
+Data Scientist,Junior,100-500,Hybrid,38,Monthly,6,0,Sleep Practice,1,7,0.93,Morning,21,28,19,21,-2,0
+Product Manager,Lead/Staff,500-1000,In-office,48,Monthly,7,0,Sleep Practice,2,21,0.48,Morning,10,33,20,18,2,0
+Software Engineer,Mid-level,26-100,Remote,31,Never,1,0,Guided Meditation,6,12,0.91,Evening,6,36,17,8,9,1
+Software Engineer,Mid-level,More than 1000,Remote,50,Never,1,1,Journaling,2,44,0.75,Night,12,51,20,16,4,1
+QA Engineer,Junior,500-1000,Hybrid,32,Rarely,2,1,Breathing Exercise,2,21,0.31,Morning,10,31,17,16,1,0
+Engineering Manager,Mid-level,1-25,Hybrid,43,Daily,3,0,Guided Meditation,1,29,0.81,Afternoon,22,36,19,15,4,1
+Data Scientist,Senior,100-500,Remote,52,Never,1,0,Journaling,3,16,0.32,Afternoon,17,34,22,22,0,0
+Software Engineer,Senior,26-100,Remote,54,Weekly,5,1,Guided Meditation,3,33,1.0,Evening,2,48,22,19,3,1
+DevOps,Mid-level,1-25,Remote,53,Daily,3,0,Journaling,2,29,0.91,Evening,19,56,19,17,2,0
+Data Scientist,Lead/Staff,26-100,In-office,50,Weekly,1,0,Journaling,2,40,0.51,Morning,20,47,21,24,-3,0
+Software Engineer,Lead/Staff,More than 1000,Hybrid,37,Rarely,8,1,Journaling,4,29,0.48,Evening,6,65,19,12,7,1
+Software Engineer,Lead/Staff,100-500,In-office,56,Daily,6,1,Guided Meditation,1,33,0.57,Morning,13,47,22,18,4,1
+DevOps,Mid-level,100-500,In-office,37,Never,9,0,Sleep Practice,3,15,0.55,Afternoon,9,44,20,21,-1,0
+DevOps,Mid-level,More than 1000,Hybrid,57,Monthly,3,1,Journaling,2,8,0.56,Evening,12,37,22,18,4,1
+Software Engineer,Manager,100-500,Remote,53,Daily,9,0,Sleep Practice,2,18,0.52,Afternoon,18,47,24,27,-3,0
+Software Engineer,Senior,500-1000,Remote,59,Weekly,9,1,Breathing Exercise,3,42,0.73,Morning,8,37,23,20,3,1
+Software Engineer,Junior,26-100,Remote,47,Monthly,1,0,Focus Session,4,21,0.41,Night,18,35,19,17,2,0
+DevOps,Junior,1-25,In-office,40,Rarely,3,0,Sleep Practice,3,6,0.89,Night,23,35,17,10,7,1
+Software Engineer,Mid-level,More than 1000,Hybrid,35,Monthly,6,1,Focus Session,1,12,0.87,Evening,22,43,18,15,3,1
+Software Engineer,Manager,500-1000,Remote,36,Monthly,8,0,Journaling,3,40,0.63,Afternoon,2,40,19,22,-3,0
+Designer,Senior,1-25,Remote,32,Rarely,4,1,Focus Session,3,14,0.9,Morning,8,72,19,13,6,1
+Software Engineer,Mid-level,1-25,Hybrid,55,Daily,5,0,Focus Session,3,11,0.47,Night,10,47,22,23,-1,0
+DevOps,Junior,More than 1000,Hybrid,57,Daily,9,0,Journaling,3,40,0.31,Evening,9,47,25,26,-1,0
+Software Engineer,Senior,500-1000,Remote,52,Daily,6,0,Sleep Practice,1,20,0.73,Night,18,39,21,20,1,0
+Software Engineer,Lead/Staff,1-25,In-office,47,Monthly,7,0,Journaling,3,18,0.62,Morning,8,75,20,20,0,0
+Software Engineer,Mid-level,1-25,Hybrid,66,Weekly,7,1,Breathing Exercise,3,20,0.7,Morning,19,36,25,18,7,1
+Designer,Senior,500-1000,Remote,46,Daily,4,0,Body Scan,2,29,0.93,Night,3,40,20,17,3,1
+QA Engineer,Manager,100-500,In-office,49,Daily,4,1,Guided Meditation,3,8,0.98,Evening,9,55,22,24,-2,0
+QA Engineer,Mid-level,1-25,Remote,47,Monthly,4,1,Journaling,2,33,0.74,Morning,13,47,19,20,-1,0
+Data Scientist,Senior,26-100,In-office,44,Never,5,1,Journaling,2,10,0.83,Morning,9,32,19,21,-2,0
+DevOps,Mid-level,500-1000,In-office,53,Never,5,0,Focus Session,6,5,0.36,Afternoon,20,45,22,17,5,1
+Software Engineer,Lead/Staff,1-25,Hybrid,41,Monthly,8,1,Breathing Exercise,2,43,0.41,Morning,12,52,19,18,1,0
+Software Engineer,Senior,More than 1000,In-office,41,Weekly,9,0,Focus Session,2,5,0.81,Afternoon,23,50,20,21,-1,0
+QA Engineer,Senior,26-100,Remote,53,Weekly,2,0,Sleep Practice,3,44,0.6,Afternoon,13,52,22,16,6,1
+Software Engineer,Lead/Staff,1-25,In-office,43,Rarely,7,0,Journaling,7,7,0.61,Evening,8,67,20,15,5,1
+Software Engineer,Mid-level,26-100,Hybrid,48,Rarely,1,0,Journaling,7,5,0.52,Afternoon,15,48,19,16,3,1
+Software Engineer,Manager,26-100,Hybrid,44,Monthly,1,0,Focus Session,3,5,0.73,Night,13,53,18,16,2,0
+Software Engineer,Senior,100-500,In-office,47,Monthly,4,1,Journaling,1,43,0.43,Morning,21,21,22,25,-3,0
+Software Engineer,Junior,26-100,In-office,41,Never,7,0,Sleep Practice,5,25,0.74,Evening,13,64,21,16,5,1
+Product Manager,Senior,100-500,In-office,41,Weekly,2,0,Body Scan,3,34,0.42,Morning,17,46,19,19,0,0
+Data Scientist,Lead/Staff,500-1000,Remote,40,Monthly,2,1,Guided Meditation,2,36,0.34,Evening,15,36,18,14,4,1
+QA Engineer,Mid-level,100-500,In-office,55,Weekly,1,0,Guided Meditation,4,37,0.53,Night,22,43,21,17,4,1
+QA Engineer,Lead/Staff,More than 1000,Hybrid,49,Monthly,2,0,Guided Meditation,2,26,0.46,Evening,19,52,21,20,1,0
+Software Engineer,Manager,1-25,In-office,55,Rarely,7,0,Body Scan,1,34,0.92,Evening,3,55,23,22,1,0
+Software Engineer,Mid-level,500-1000,Hybrid,56,Monthly,9,1,Journaling,4,8,0.34,Afternoon,14,44,22,16,6,1
+Data Scientist,Manager,500-1000,Remote,43,Daily,6,0,Focus Session,3,27,0.42,Evening,10,51,21,24,-3,0
+Product Manager,Junior,More than 1000,Remote,55,Never,2,0,Breathing Exercise,2,29,0.68,Night,17,42,22,22,0,0
+Software Engineer,Mid-level,100-500,Hybrid,47,Weekly,9,0,Journaling,2,16,0.64,Night,8,50,22,18,4,1
+DevOps,Junior,1-25,In-office,46,Monthly,7,1,Body Scan,3,21,0.33,Afternoon,18,47,19,13,6,1
+Data Scientist,Lead/Staff,100-500,Remote,58,Daily,1,1,Sleep Practice,2,19,0.31,Night,12,48,22,22,0,0
+Product Manager,Senior,26-100,Hybrid,52,Weekly,9,1,Body Scan,2,14,0.99,Morning,17,42,22,23,-1,0
+Data Scientist,Junior,100-500,Remote,44,Rarely,2,0,Guided Meditation,3,39,0.76,Morning,23,49,19,19,0,0
+Software Engineer,Mid-level,500-1000,In-office,51,Weekly,4,0,Journaling,5,33,0.56,Morning,11,37,23,26,-3,0
+Engineering Manager,Senior,1-25,Hybrid,36,Rarely,9,0,Guided Meditation,3,16,0.63,Morning,9,47,18,10,8,1
+Designer,Junior,100-500,Remote,49,Daily,4,0,Breathing Exercise,4,5,0.49,Evening,22,39,21,20,1,0
+Software Engineer,Lead/Staff,1-25,Remote,34,Monthly,3,0,Sleep Practice,4,5,0.54,Night,23,35,18,14,4,1
+QA Engineer,Lead/Staff,1-25,Remote,38,Monthly,1,0,Guided Meditation,3,14,0.75,Evening,15,38,18,15,3,1
+Data Scientist,Senior,26-100,Hybrid,52,Weekly,7,0,Breathing Exercise,2,22,0.92,Evening,9,43,21,15,6,1
+QA Engineer,Manager,26-100,Remote,30,Weekly,6,1,Body Scan,5,6,0.43,Evening,12,40,20,19,1,0
+Designer,Mid-level,500-1000,Remote,63,Rarely,4,0,Guided Meditation,2,12,0.89,Evening,11,49,23,23,0,0
+Data Scientist,Manager,More than 1000,In-office,55,Weekly,6,1,Guided Meditation,1,26,0.39,Afternoon,17,46,23,20,3,1
+Software Engineer,Senior,1-25,In-office,30,Monthly,6,0,Focus Session,2,26,0.45,Evening,6,55,17,21,-4,0
+Software Engineer,Senior,More than 1000,Hybrid,69,Monthly,4,0,Sleep Practice,4,30,0.33,Evening,8,44,24,19,5,1
+Product Manager,Junior,500-1000,In-office,71,Weekly,6,0,Sleep Practice,1,30,0.4,Evening,10,47,25,20,5,1
+DevOps,Lead/Staff,1-25,Remote,45,Monthly,8,0,Body Scan,1,13,0.94,Evening,15,64,21,19,2,0
+Software Engineer,Mid-level,1-25,Hybrid,39,Rarely,3,0,Focus Session,3,25,0.62,Night,4,41,18,19,-1,0
+Software Engineer,Junior,More than 1000,Hybrid,62,Weekly,4,0,Breathing Exercise,5,35,0.35,Morning,18,42,22,18,4,1
+QA Engineer,Junior,100-500,Hybrid,44,Never,1,1,Breathing Exercise,3,10,0.97,Afternoon,11,57,19,17,2,0
+Engineering Manager,Senior,26-100,Remote,48,Weekly,4,1,Body Scan,2,18,0.92,Evening,9,35,21,19,2,0
+Product Manager,Senior,100-500,Hybrid,58,Rarely,9,0,Sleep Practice,1,37,0.83,Afternoon,9,58,22,21,1,0
+Software Engineer,Senior,More than 1000,Hybrid,46,Never,8,1,Breathing Exercise,3,11,0.95,Night,8,43,19,19,0,0
+Software Engineer,Lead/Staff,26-100,Hybrid,45,Rarely,4,1,Body Scan,1,28,0.45,Morning,3,37,20,18,2,0
+Software Engineer,Junior,100-500,Remote,36,Weekly,7,1,Breathing Exercise,3,13,0.89,Afternoon,21,54,17,19,-2,0
+Engineering Manager,Senior,26-100,Remote,41,Weekly,3,1,Journaling,2,15,0.78,Night,18,42,19,24,-5,0
+Software Engineer,Junior,1-25,Remote,45,Never,9,0,Guided Meditation,5,27,0.91,Afternoon,14,63,20,16,4,1
+Product Manager,Lead/Staff,100-500,Remote,36,Never,4,0,Sleep Practice,3,6,0.86,Evening,3,46,20,15,5,1
+Software Engineer,Lead/Staff,26-100,Hybrid,37,Daily,2,0,Journaling,2,19,0.54,Morning,17,46,19,19,0,0
+Product Manager,Senior,26-100,Remote,47,Never,5,0,Body Scan,5,39,0.84,Morning,4,39,20,19,1,0
+DevOps,Senior,26-100,In-office,30,Daily,2,0,Body Scan,2,40,0.48,Evening,21,44,18,14,4,1
+QA Engineer,Mid-level,100-500,Remote,39,Rarely,6,1,Journaling,2,32,0.53,Morning,18,42,18,16,2,0
+Software Engineer,Mid-level,500-1000,Remote,65,Weekly,1,1,Guided Meditation,4,43,0.38,Night,15,58,23,23,0,0
+Software Engineer,Lead/Staff,100-500,Hybrid,44,Rarely,6,1,Guided Meditation,2,8,0.95,Evening,19,48,20,17,3,1
+Software Engineer,Mid-level,More than 1000,Remote,43,Daily,4,1,Focus Session,2,14,0.5,Morning,22,52,21,20,1,0
+Engineering Manager,Mid-level,100-500,Hybrid,44,Weekly,3,1,Breathing Exercise,2,10,0.66,Evening,6,46,19,21,-2,0
+QA Engineer,Mid-level,26-100,Hybrid,44,Monthly,2,1,Focus Session,1,34,0.57,Evening,15,41,19,18,1,0
+Product Manager,Lead/Staff,1-25,Remote,52,Never,7,0,Guided Meditation,1,39,0.97,Morning,7,49,19,17,2,0
+Product Manager,Mid-level,100-500,Remote,52,Weekly,9,0,Journaling,4,14,0.53,Morning,12,61,23,23,0,0
+DevOps,Junior,100-500,Remote,43,Weekly,3,0,Breathing Exercise,3,36,0.84,Afternoon,16,35,19,14,5,1
+Software Engineer,Senior,26-100,Remote,45,Never,6,1,Journaling,2,7,0.9,Evening,9,49,22,19,3,1
+Engineering Manager,Lead/Staff,1-25,Remote,59,Never,9,0,Focus Session,2,30,0.6,Evening,20,60,23,22,1,0
+Data Scientist,Junior,1-25,Remote,33,Weekly,2,1,Body Scan,6,19,0.56,Evening,5,37,17,14,3,1
+Data Scientist,Mid-level,More than 1000,Remote,46,Rarely,7,0,Journaling,7,21,0.82,Evening,11,54,19,17,2,0
+Product Manager,Junior,100-500,Hybrid,48,Weekly,5,0,Focus Session,3,31,0.94,Evening,2,54,21,20,1,0
+Software Engineer,Mid-level,1-25,Hybrid,40,Monthly,5,1,Focus Session,4,22,0.83,Evening,22,32,21,19,2,0
+Software Engineer,Mid-level,1-25,Hybrid,46,Daily,7,0,Focus Session,4,23,0.46,Evening,16,56,22,26,-4,0
+Designer,Senior,500-1000,Remote,39,Daily,9,0,Body Scan,2,16,0.92,Morning,4,39,19,18,1,0
+Software Engineer,Senior,500-1000,Remote,53,Daily,4,0,Body Scan,1,28,0.57,Night,5,49,22,21,1,0
+Product Manager,Senior,1-25,In-office,35,Rarely,9,0,Body Scan,1,9,0.7,Evening,7,55,20,11,9,1
+Software Engineer,Mid-level,More than 1000,Hybrid,57,Daily,9,1,Breathing Exercise,4,28,0.88,Evening,6,57,22,19,3,1
+Data Scientist,Lead/Staff,1-25,In-office,46,Rarely,4,0,Body Scan,4,31,0.43,Evening,22,30,21,21,0,0
+Software Engineer,Mid-level,26-100,Remote,43,Monthly,3,1,Body Scan,3,34,0.85,Morning,10,63,19,22,-3,0
+Data Scientist,Manager,100-500,Hybrid,38,Monthly,2,0,Body Scan,1,19,0.72,Evening,14,59,18,20,-2,0
+DevOps,Senior,More than 1000,Hybrid,56,Never,9,1,Journaling,3,42,0.93,Afternoon,8,56,23,23,0,0
+Software Engineer,Junior,26-100,Remote,41,Daily,2,0,Body Scan,4,38,0.42,Evening,14,49,20,20,0,0
+Product Manager,Senior,More than 1000,Hybrid,36,Never,6,1,Breathing Exercise,5,31,0.59,Afternoon,14,41,20,18,2,0
+Data Scientist,Mid-level,26-100,Hybrid,56,Weekly,5,1,Focus Session,1,24,0.88,Evening,20,34,22,22,0,0
+DevOps,Senior,100-500,Remote,39,Weekly,5,0,Journaling,3,36,0.31,Evening,23,29,19,18,1,0
+Engineering Manager,Junior,100-500,Remote,46,Weekly,4,1,Guided Meditation,1,8,0.38,Evening,3,51,20,21,-1,0
+Designer,Junior,500-1000,In-office,54,Never,6,1,Body Scan,4,9,0.99,Morning,1,56,22,20,2,0
+Software Engineer,Lead/Staff,26-100,In-office,48,Monthly,5,0,Focus Session,3,12,0.5,Night,9,44,22,23,-1,0
+Software Engineer,Mid-level,500-1000,Remote,63,Weekly,4,0,Focus Session,1,26,0.98,Evening,9,40,24,27,-3,0
+Software Engineer,Lead/Staff,26-100,Remote,39,Rarely,9,1,Journaling,4,11,0.43,Evening,22,46,20,18,2,0
+Product Manager,Mid-level,500-1000,Remote,45,Monthly,6,1,Guided Meditation,1,26,0.55,Morning,2,39,21,19,2,0
+Software Engineer,Senior,100-500,Hybrid,46,Rarely,3,0,Sleep Practice,4,34,0.83,Evening,16,45,19,20,-1,0
+Data Scientist,Senior,More than 1000,Remote,53,Monthly,6,0,Breathing Exercise,2,41,0.76,Morning,8,38,22,23,-1,0
+Product Manager,Senior,500-1000,In-office,59,Daily,1,1,Sleep Practice,3,20,0.71,Evening,6,51,23,23,0,0
+Software Engineer,Mid-level,26-100,Remote,48,Monthly,5,1,Focus Session,5,19,0.67,Morning,23,57,21,19,2,0
+Designer,Mid-level,26-100,Remote,46,Monthly,6,1,Sleep Practice,2,9,0.89,Evening,13,50,20,16,4,1
+Software Engineer,Junior,100-500,Hybrid,34,Monthly,8,0,Focus Session,3,7,0.46,Evening,1,44,20,16,4,1
+Software Engineer,Mid-level,26-100,In-office,48,Monthly,9,1,Sleep Practice,3,27,0.61,Afternoon,19,55,21,19,2,0
+Designer,Senior,1-25,Hybrid,41,Never,3,0,Focus Session,1,14,0.41,Afternoon,15,45,19,14,5,1
+Data Scientist,Manager,More than 1000,Hybrid,53,Rarely,2,0,Focus Session,3,9,0.72,Night,1,55,20,20,0,0
+DevOps,Lead/Staff,500-1000,In-office,43,Monthly,4,1,Journaling,4,27,0.48,Morning,10,39,19,15,4,1
+Data Scientist,Senior,More than 1000,Remote,45,Weekly,8,1,Guided Meditation,5,19,0.53,Evening,1,40,21,21,0,0
+Software Engineer,Lead/Staff,100-500,In-office,34,Monthly,8,0,Focus Session,5,22,0.63,Morning,12,35,18,15,3,1
+QA Engineer,Senior,500-1000,Remote,31,Rarely,3,0,Breathing Exercise,3,29,0.32,Morning,11,40,17,13,4,1
+Designer,Mid-level,500-1000,In-office,64,Monthly,4,1,Breathing Exercise,4,12,0.36,Morning,17,55,25,23,2,0
+DevOps,Manager,1-25,Hybrid,48,Rarely,3,0,Body Scan,4,35,0.78,Evening,4,36,20,21,-1,0
+Software Engineer,Senior,100-500,Remote,51,Daily,2,1,Focus Session,3,25,0.6,Afternoon,23,22,22,26,-4,0
+Product Manager,Senior,26-100,In-office,39,Monthly,4,1,Focus Session,1,6,0.91,Night,7,41,18,15,3,1
+Data Scientist,Junior,1-25,Remote,55,Never,6,0,Focus Session,2,26,0.79,Evening,12,33,22,22,0,0
+Software Engineer,Mid-level,1-25,Remote,53,Never,5,1,Sleep Practice,4,12,0.31,Morning,13,40,20,19,1,0
+Engineering Manager,Mid-level,More than 1000,Hybrid,40,Daily,3,1,Focus Session,3,27,0.73,Evening,5,66,19,13,6,1
+Software Engineer,Lead/Staff,More than 1000,Remote,37,Rarely,2,1,Focus Session,4,36,0.37,Morning,6,36,19,20,-1,0
+Engineering Manager,Senior,More than 1000,Hybrid,40,Weekly,9,1,Breathing Exercise,1,12,0.85,Evening,2,51,20,17,3,1
+Data Scientist,Mid-level,1-25,Remote,47,Never,1,1,Guided Meditation,6,8,0.99,Morning,21,44,20,19,1,0
+Software Engineer,Manager,26-100,Remote,49,Daily,9,0,Guided Meditation,2,34,0.67,Morning,7,49,22,22,0,0
+Product Manager,Junior,500-1000,Remote,47,Daily,1,0,Body Scan,3,23,0.78,Evening,14,40,20,22,-2,0
+QA Engineer,Mid-level,More than 1000,Remote,59,Monthly,7,1,Breathing Exercise,1,27,0.47,Night,22,57,24,25,-1,0
+Designer,Junior,26-100,Hybrid,41,Never,6,0,Focus Session,1,22,0.61,Afternoon,14,49,20,17,3,1
+QA Engineer,Senior,100-500,In-office,37,Rarely,7,0,Guided Meditation,4,33,0.9,Evening,10,50,18,12,6,1
+DevOps,Manager,More than 1000,In-office,47,Monthly,3,1,Journaling,6,27,0.42,Morning,4,46,20,17,3,1
+DevOps,Mid-level,500-1000,In-office,32,Monthly,3,1,Journaling,2,37,0.49,Evening,3,58,18,16,2,0
+QA Engineer,Lead/Staff,100-500,Remote,53,Rarely,1,0,Journaling,1,22,0.61,Evening,23,51,21,12,9,1
+Software Engineer,Mid-level,100-500,Hybrid,48,Never,4,1,Focus Session,2,37,0.8,Morning,14,49,20,17,3,1
+Data Scientist,Manager,500-1000,Remote,44,Monthly,2,1,Focus Session,1,11,0.56,Morning,6,52,20,22,-2,0
+Software Engineer,Senior,More than 1000,Remote,43,Monthly,8,0,Body Scan,1,32,0.95,Morning,23,27,21,25,-4,0
+Engineering Manager,Lead/Staff,1-25,Hybrid,55,Rarely,3,1,Body Scan,4,5,0.37,Afternoon,15,47,22,19,3,1
+Engineering Manager,Junior,500-1000,Remote,55,Never,7,0,Body Scan,6,43,0.56,Morning,8,44,22,24,-2,0
+Software Engineer,Manager,500-1000,Remote,45,Daily,7,0,Sleep Practice,1,38,0.8,Evening,5,57,21,23,-2,0
+DevOps,Senior,500-1000,In-office,52,Monthly,9,0,Journaling,3,43,0.46,Night,3,38,21,19,2,0
+Engineering Manager,Mid-level,100-500,Hybrid,55,Weekly,6,0,Focus Session,2,23,0.76,Morning,3,47,21,17,4,1
+Software Engineer,Lead/Staff,26-100,Hybrid,50,Monthly,1,0,Journaling,1,35,0.41,Evening,13,64,20,20,0,0
+Product Manager,Mid-level,1-25,Remote,45,Never,8,1,Body Scan,2,17,0.34,Evening,2,45,20,22,-2,0
+Engineering Manager,Lead/Staff,More than 1000,Remote,50,Rarely,1,1,Focus Session,3,28,0.38,Night,1,32,22,22,0,0
+Software Engineer,Junior,More than 1000,In-office,38,Rarely,3,1,Breathing Exercise,1,9,0.95,Evening,12,67,20,19,1,0
+DevOps,Senior,26-100,Remote,48,Weekly,5,1,Guided Meditation,2,27,0.69,Evening,8,38,20,19,1,0
+Software Engineer,Senior,500-1000,Hybrid,45,Weekly,8,0,Guided Meditation,1,23,0.86,Afternoon,19,35,21,23,-2,0
+Engineering Manager,Junior,1-25,Remote,43,Rarely,9,0,Body Scan,2,5,0.53,Morning,9,35,20,21,-1,0
+Engineering Manager,Mid-level,More than 1000,Hybrid,31,Daily,7,1,Journaling,1,37,0.71,Morning,14,52,18,14,4,1
+Engineering Manager,Junior,More than 1000,Remote,38,Rarely,9,0,Breathing Exercise,5,37,0.65,Afternoon,18,58,19,14,5,1
+Data Scientist,Mid-level,500-1000,In-office,43,Daily,3,0,Focus Session,4,36,0.96,Morning,10,63,22,17,5,1
+QA Engineer,Mid-level,26-100,In-office,55,Daily,5,1,Journaling,5,32,0.82,Evening,9,45,24,28,-4,0
+QA Engineer,Senior,1-25,In-office,50,Rarely,8,0,Body Scan,2,41,0.81,Morning,6,35,21,22,-1,0
+Software Engineer,Mid-level,26-100,Remote,55,Rarely,1,1,Journaling,2,16,0.33,Evening,1,39,20,17,3,1
+QA Engineer,Mid-level,26-100,In-office,58,Monthly,8,0,Body Scan,2,13,0.68,Morning,5,45,24,21,3,1
+Software Engineer,Senior,1-25,Hybrid,50,Weekly,7,0,Sleep Practice,1,15,0.63,Night,10,45,20,18,2,0
+Product Manager,Junior,1-25,Remote,48,Monthly,1,0,Guided Meditation,4,37,0.95,Night,13,58,21,20,1,0
+Software Engineer,Manager,More than 1000,Hybrid,38,Daily,6,1,Guided Meditation,2,23,0.48,Morning,22,32,19,20,-1,0
+Software Engineer,Lead/Staff,More than 1000,Remote,65,Weekly,1,0,Journaling,2,38,0.49,Morning,23,34,22,21,1,0
+Software Engineer,Senior,1-25,Remote,34,Rarely,2,0,Breathing Exercise,3,11,0.59,Evening,4,42,17,16,1,0
+DevOps,Senior,100-500,Hybrid,48,Never,5,1,Focus Session,2,35,0.47,Morning,1,49,20,17,3,1
+Software Engineer,Lead/Staff,More than 1000,Remote,54,Weekly,2,1,Body Scan,7,6,0.39,Afternoon,21,41,22,19,3,1
+Designer,Junior,100-500,Hybrid,55,Rarely,1,0,Focus Session,2,23,0.9,Morning,2,40,21,23,-2,0
+Software Engineer,Junior,1-25,Remote,37,Weekly,6,0,Guided Meditation,3,42,0.69,Night,4,57,18,14,4,1
+Software Engineer,Mid-level,More than 1000,In-office,43,Rarely,8,0,Breathing Exercise,2,36,0.9,Night,17,50,20,14,6,1
+Product Manager,Lead/Staff,26-100,In-office,40,Rarely,8,1,Breathing Exercise,7,14,0.88,Evening,10,35,20,13,7,1
+Designer,Junior,1-25,In-office,30,Never,8,1,Focus Session,2,12,0.5,Evening,23,40,18,14,4,1
+Software Engineer,Senior,500-1000,Remote,48,Weekly,6,0,Guided Meditation,3,30,0.68,Night,12,50,21,17,4,1
+DevOps,Manager,100-500,Remote,41,Never,3,1,Focus Session,1,34,0.36,Night,2,32,19,22,-3,0
+QA Engineer,Lead/Staff,1-25,Hybrid,61,Weekly,1,0,Journaling,4,15,0.94,Night,3,50,23,24,-1,0
+Product Manager,Senior,1-25,Remote,53,Monthly,2,0,Breathing Exercise,2,24,0.58,Morning,14,42,21,20,1,0
+Software Engineer,Junior,More than 1000,Remote,47,Weekly,5,0,Breathing Exercise,2,24,0.58,Morning,15,49,21,18,3,1
+Software Engineer,Lead/Staff,More than 1000,Hybrid,43,Monthly,5,0,Journaling,5,13,0.51,Evening,13,46,19,19,0,0
+QA Engineer,Senior,More than 1000,Hybrid,48,Never,1,0,Guided Meditation,7,12,0.62,Evening,9,34,20,18,2,0
+Software Engineer,Junior,500-1000,In-office,45,Weekly,1,0,Breathing Exercise,2,19,0.48,Morning,2,39,18,15,3,1
+QA Engineer,Junior,More than 1000,Remote,48,Never,9,1,Sleep Practice,4,38,0.56,Morning,19,59,21,18,3,1
+Product Manager,Manager,1-25,Remote,64,Monthly,2,0,Sleep Practice,1,28,0.86,Night,16,69,24,22,2,0
+Engineering Manager,Senior,More than 1000,Remote,37,Rarely,7,1,Sleep Practice,4,37,0.88,Night,11,28,18,18,0,0
+Designer,Lead/Staff,26-100,In-office,45,Weekly,4,0,Body Scan,3,44,0.51,Afternoon,12,55,21,20,1,0
+Engineering Manager,Lead/Staff,More than 1000,In-office,53,Daily,7,0,Body Scan,3,31,0.63,Night,1,48,22,23,-1,0
+Data Scientist,Senior,500-1000,In-office,43,Monthly,8,0,Guided Meditation,5,25,0.91,Evening,2,66,19,16,3,1
+Designer,Senior,26-100,In-office,61,Monthly,5,0,Journaling,4,9,0.34,Evening,16,39,24,24,0,0
+Data Scientist,Mid-level,1-25,Hybrid,53,Weekly,1,0,Focus Session,2,39,0.92,Afternoon,2,54,22,23,-1,0
+Data Scientist,Mid-level,1-25,Hybrid,41,Never,4,0,Guided Meditation,4,25,0.45,Morning,19,42,21,18,3,1
+DevOps,Mid-level,100-500,Remote,49,Daily,3,0,Focus Session,1,8,0.77,Afternoon,10,58,20,13,7,1
+QA Engineer,Senior,26-100,Hybrid,41,Rarely,5,0,Guided Meditation,4,20,0.71,Afternoon,19,68,19,14,5,1
+Engineering Manager,Senior,100-500,Hybrid,40,Daily,6,1,Body Scan,3,35,0.69,Evening,10,47,20,24,-4,0
+Designer,Lead/Staff,26-100,Hybrid,46,Weekly,2,1,Sleep Practice,1,30,0.9,Morning,16,34,21,19,2,0
+Data Scientist,Mid-level,26-100,In-office,58,Weekly,7,0,Journaling,3,39,0.37,Night,13,59,23,24,-1,0
+Data Scientist,Senior,500-1000,In-office,54,Weekly,3,0,Body Scan,3,10,0.54,Morning,16,51,21,22,-1,0
+Designer,Senior,100-500,In-office,47,Monthly,1,0,Journaling,3,37,0.68,Morning,18,49,19,15,4,1
+Software Engineer,Senior,500-1000,In-office,54,Monthly,3,1,Focus Session,2,25,0.87,Evening,8,61,22,21,1,0
+Software Engineer,Senior,26-100,Hybrid,49,Never,9,0,Guided Meditation,2,20,0.45,Evening,18,34,21,12,9,1
+Data Scientist,Mid-level,1-25,Remote,36,Weekly,6,0,Breathing Exercise,4,43,0.86,Afternoon,13,38,19,17,2,0
+Software Engineer,Senior,26-100,Remote,46,Weekly,6,0,Breathing Exercise,2,38,0.58,Evening,7,51,20,19,1,0
+Software Engineer,Junior,500-1000,Hybrid,46,Daily,4,1,Journaling,2,19,0.43,Evening,21,38,21,16,5,1
+Software Engineer,Mid-level,100-500,Hybrid,54,Monthly,8,0,Sleep Practice,3,10,0.83,Evening,23,42,21,19,2,0
+Software Engineer,Mid-level,100-500,Remote,42,Never,5,1,Sleep Practice,1,6,0.36,Evening,18,58,18,20,-2,0
+Software Engineer,Senior,500-1000,In-office,39,Rarely,7,0,Journaling,3,28,0.66,Morning,6,49,20,21,-1,0
+Engineering Manager,Manager,100-500,Remote,47,Weekly,9,1,Body Scan,3,32,0.34,Evening,9,33,21,21,0,0
+Data Scientist,Senior,More than 1000,Remote,41,Rarely,5,1,Breathing Exercise,3,5,0.55,Night,6,49,20,16,4,1
+Data Scientist,Senior,1-25,Hybrid,44,Rarely,5,0,Body Scan,2,5,0.72,Morning,18,57,19,13,6,1
+DevOps,Senior,1-25,Remote,46,Weekly,4,1,Focus Session,2,32,0.69,Afternoon,17,47,20,16,4,1
+Software Engineer,Senior,1-25,Remote,44,Monthly,6,0,Breathing Exercise,2,40,0.58,Night,12,54,20,17,3,1
+Engineering Manager,Junior,100-500,Remote,56,Monthly,2,1,Focus Session,4,24,0.6,Afternoon,3,40,22,18,4,1
+Designer,Mid-level,100-500,In-office,60,Rarely,3,1,Guided Meditation,1,12,0.46,Afternoon,5,48,23,21,2,0
+Software Engineer,Mid-level,26-100,Hybrid,55,Weekly,1,0,Body Scan,6,5,0.62,Night,7,29,21,22,-1,0
+Data Scientist,Mid-level,26-100,Hybrid,31,Rarely,2,1,Journaling,3,30,0.97,Morning,10,51,15,13,2,0
+QA Engineer,Junior,1-25,Hybrid,41,Weekly,2,0,Breathing Exercise,5,29,0.9,Morning,10,49,19,18,1,0
+Engineering Manager,Junior,More than 1000,Remote,45,Never,8,0,Body Scan,2,14,0.4,Night,19,32,20,15,5,1
+Data Scientist,Mid-level,26-100,In-office,30,Daily,8,0,Journaling,2,16,0.32,Night,4,60,19,21,-2,0
+Product Manager,Manager,26-100,Remote,39,Monthly,2,1,Guided Meditation,5,11,0.95,Afternoon,10,51,19,19,0,0
+Software Engineer,Mid-level,100-500,In-office,45,Monthly,6,0,Breathing Exercise,1,16,0.67,Evening,18,38,21,19,2,0
+Engineering Manager,Mid-level,More than 1000,Hybrid,43,Weekly,5,0,Focus Session,1,44,0.68,Evening,3,52,21,15,6,1
+Software Engineer,Junior,1-25,In-office,47,Weekly,3,1,Guided Meditation,2,21,0.85,Evening,21,35,20,16,4,1
+Engineering Manager,Senior,26-100,Remote,35,Never,5,0,Sleep Practice,6,9,0.52,Morning,3,37,17,11,6,1
+DevOps,Mid-level,More than 1000,Hybrid,43,Weekly,5,0,Journaling,3,18,0.64,Morning,5,35,21,23,-2,0
+Product Manager,Mid-level,More than 1000,Remote,48,Rarely,5,0,Breathing Exercise,3,38,0.98,Afternoon,16,35,21,17,4,1
+Product Manager,Senior,1-25,Remote,47,Daily,3,0,Breathing Exercise,4,21,0.77,Night,20,49,20,21,-1,0
+Software Engineer,Junior,More than 1000,Hybrid,51,Weekly,3,0,Guided Meditation,2,39,0.41,Night,13,46,22,19,3,1
+Software Engineer,Junior,More than 1000,Remote,50,Rarely,4,0,Breathing Exercise,4,5,0.39,Night,11,52,21,24,-3,0
+Software Engineer,Mid-level,More than 1000,Hybrid,43,Weekly,7,1,Journaling,2,40,0.44,Night,13,17,21,21,0,0
+Software Engineer,Junior,26-100,Remote,48,Monthly,2,1,Guided Meditation,4,19,0.84,Evening,19,41,22,26,-4,0
+Designer,Junior,1-25,Remote,40,Never,4,0,Focus Session,2,23,0.51,Afternoon,6,41,21,22,-1,0
+Data Scientist,Mid-level,More than 1000,In-office,45,Daily,4,0,Guided Meditation,2,9,0.31,Evening,13,46,20,23,-3,0
+Software Engineer,Lead/Staff,More than 1000,Hybrid,37,Weekly,1,0,Guided Meditation,3,23,0.96,Evening,4,45,20,16,4,1
+Engineering Manager,Senior,26-100,Hybrid,57,Monthly,8,1,Focus Session,2,43,0.42,Evening,22,47,24,23,1,0
+QA Engineer,Senior,1-25,Hybrid,45,Monthly,1,0,Sleep Practice,3,9,0.31,Morning,5,46,20,20,0,0
+Engineering Manager,Mid-level,100-500,In-office,57,Rarely,8,0,Journaling,2,16,0.47,Night,19,40,23,22,1,0
+Engineering Manager,Manager,26-100,Remote,50,Daily,7,1,Sleep Practice,2,23,0.46,Afternoon,5,41,23,25,-2,0
+Software Engineer,Mid-level,1-25,Hybrid,39,Never,9,0,Sleep Practice,3,16,0.6,Afternoon,21,44,18,15,3,1
+Data Scientist,Junior,More than 1000,In-office,49,Rarely,8,0,Sleep Practice,3,40,0.94,Evening,14,50,21,19,2,0
+Designer,Senior,1-25,Hybrid,54,Monthly,5,1,Body Scan,1,16,0.92,Evening,4,46,21,13,8,1
+DevOps,Junior,1-25,Hybrid,46,Monthly,8,1,Sleep Practice,3,22,0.62,Morning,12,37,20,14,6,1
+Software Engineer,Mid-level,1-25,Hybrid,48,Monthly,3,0,Body Scan,2,38,0.59,Evening,6,37,19,15,4,1
+QA Engineer,Senior,100-500,Hybrid,42,Rarely,7,1,Focus Session,2,37,0.69,Morning,19,50,19,16,3,1
+Software Engineer,Lead/Staff,1-25,Hybrid,47,Never,4,0,Journaling,2,22,0.47,Morning,10,53,20,17,3,1
+Software Engineer,Mid-level,100-500,Remote,49,Rarely,5,1,Sleep Practice,6,33,0.34,Afternoon,1,56,21,15,6,1
+Product Manager,Senior,More than 1000,Remote,42,Daily,9,0,Breathing Exercise,3,9,0.96,Evening,23,40,20,17,3,1
+Product Manager,Manager,100-500,In-office,37,Never,7,1,Focus Session,2,29,0.43,Night,23,26,20,17,3,1
+Product Manager,Junior,More than 1000,Remote,59,Weekly,4,1,Body Scan,3,28,0.44,Evening,16,49,22,23,-1,0
+Software Engineer,Mid-level,More than 1000,Hybrid,52,Weekly,6,1,Journaling,4,33,0.63,Night,4,38,20,21,-1,0
+QA Engineer,Mid-level,100-500,Remote,42,Weekly,7,1,Guided Meditation,2,42,0.64,Morning,9,44,21,20,1,0
+Software Engineer,Mid-level,26-100,Hybrid,49,Daily,9,0,Journaling,4,37,0.31,Morning,18,46,22,28,-6,0
+Software Engineer,Mid-level,500-1000,Remote,34,Rarely,4,0,Journaling,1,14,0.4,Evening,17,51,18,17,1,0
+QA Engineer,Manager,1-25,Remote,30,Rarely,3,0,Sleep Practice,4,41,0.56,Morning,15,54,16,14,2,0
+Engineering Manager,Senior,500-1000,In-office,57,Monthly,8,1,Sleep Practice,3,37,0.78,Evening,19,57,24,20,4,1
+QA Engineer,Senior,1-25,In-office,49,Rarely,1,1,Body Scan,2,27,0.46,Evening,7,58,20,15,5,1
+QA Engineer,Mid-level,1-25,Hybrid,47,Weekly,9,0,Body Scan,2,15,0.6,Night,18,46,20,11,9,1
+DevOps,Lead/Staff,More than 1000,Hybrid,49,Weekly,1,1,Sleep Practice,7,28,0.69,Morning,6,28,22,18,4,1
+Product Manager,Manager,1-25,Hybrid,76,Daily,2,1,Sleep Practice,4,28,0.92,Afternoon,19,39,26,25,1,0
+Software Engineer,Lead/Staff,1-25,Hybrid,55,Never,8,1,Breathing Exercise,3,11,0.53,Evening,21,59,22,21,1,0
+Data Scientist,Junior,100-500,Hybrid,38,Daily,9,1,Breathing Exercise,1,25,0.39,Morning,12,46,17,19,-2,0
+Data Scientist,Senior,500-1000,Remote,32,Rarely,7,0,Focus Session,2,24,0.64,Evening,3,67,18,14,4,1
+Software Engineer,Junior,100-500,Hybrid,56,Monthly,3,0,Sleep Practice,2,14,0.82,Afternoon,1,41,22,21,1,0
+Designer,Mid-level,1-25,In-office,55,Monthly,7,0,Guided Meditation,1,29,0.38,Afternoon,5,68,24,22,2,0
+Data Scientist,Junior,More than 1000,In-office,52,Weekly,6,0,Breathing Exercise,3,40,0.6,Afternoon,1,45,20,19,1,0
+Software Engineer,Senior,100-500,Remote,40,Monthly,2,1,Body Scan,5,19,0.31,Morning,8,41,20,18,2,0
+Software Engineer,Senior,100-500,Hybrid,50,Daily,3,1,Journaling,3,44,0.32,Evening,7,38,21,20,1,0
+DevOps,Junior,26-100,Hybrid,40,Daily,5,1,Focus Session,2,44,0.64,Morning,15,52,18,15,3,1
+Software Engineer,Mid-level,1-25,Hybrid,53,Daily,4,1,Breathing Exercise,3,10,0.51,Morning,11,31,23,19,4,1
+QA Engineer,Mid-level,More than 1000,Remote,56,Never,2,0,Journaling,6,41,0.89,Morning,18,40,21,22,-1,0
+Data Scientist,Mid-level,100-500,Hybrid,42,Daily,4,0,Journaling,4,6,0.72,Morning,14,44,18,14,4,1
+Data Scientist,Junior,100-500,Remote,57,Weekly,8,0,Breathing Exercise,3,16,0.62,Afternoon,9,22,22,25,-3,0
+Product Manager,Mid-level,More than 1000,Remote,48,Never,5,0,Guided Meditation,6,8,0.59,Morning,5,44,20,15,5,1
+QA Engineer,Senior,1-25,Hybrid,51,Never,5,0,Guided Meditation,4,27,0.65,Evening,23,62,21,17,4,1
+Software Engineer,Junior,26-100,Hybrid,35,Never,3,0,Focus Session,1,17,0.33,Evening,4,49,18,17,1,0
+DevOps,Junior,100-500,Hybrid,49,Never,8,0,Guided Meditation,2,21,0.92,Evening,12,38,22,20,2,0
+Product Manager,Mid-level,26-100,In-office,41,Monthly,6,0,Focus Session,6,35,1.0,Evening,1,40,18,15,3,1
+Software Engineer,Manager,500-1000,Remote,51,Daily,2,1,Body Scan,3,20,0.43,Afternoon,13,48,21,17,4,1
+QA Engineer,Senior,1-25,Remote,60,Monthly,2,0,Breathing Exercise,1,30,0.38,Evening,1,40,22,19,3,1
+Designer,Senior,500-1000,Hybrid,50,Monthly,9,0,Journaling,3,32,0.4,Evening,3,50,20,16,4,1
+DevOps,Mid-level,500-1000,Remote,39,Daily,7,0,Focus Session,3,5,0.76,Afternoon,22,40,20,22,-2,0
+QA Engineer,Senior,500-1000,Remote,53,Rarely,9,1,Guided Meditation,7,16,0.76,Evening,8,35,22,18,4,1
+QA Engineer,Junior,1-25,Remote,51,Daily,6,0,Focus Session,2,41,0.89,Afternoon,18,57,22,28,-6,0
+DevOps,Senior,1-25,Remote,66,Monthly,5,0,Sleep Practice,3,24,0.83,Afternoon,16,52,23,28,-5,0
+QA Engineer,Manager,More than 1000,In-office,49,Monthly,1,1,Focus Session,5,6,0.61,Evening,20,26,19,14,5,1
+DevOps,Senior,26-100,Remote,42,Rarely,6,1,Guided Meditation,2,40,0.73,Morning,20,42,19,21,-2,0
+DevOps,Lead/Staff,26-100,Hybrid,54,Monthly,6,1,Sleep Practice,1,19,0.78,Morning,16,55,20,20,0,0
+Product Manager,Senior,More than 1000,Remote,46,Never,3,0,Sleep Practice,6,42,0.66,Morning,2,43,18,11,7,1
+Designer,Junior,More than 1000,Hybrid,48,Weekly,3,0,Guided Meditation,3,26,0.63,Afternoon,17,39,19,16,3,1
+Software Engineer,Manager,500-1000,Remote,39,Rarely,3,0,Sleep Practice,3,36,0.75,Morning,10,42,19,16,3,1
+QA Engineer,Junior,More than 1000,Hybrid,46,Daily,3,1,Breathing Exercise,3,24,0.69,Evening,7,46,21,20,1,0
+QA Engineer,Senior,100-500,Hybrid,47,Monthly,7,0,Journaling,1,40,0.75,Evening,10,43,23,22,1,0
+Software Engineer,Junior,26-100,Remote,46,Never,2,0,Breathing Exercise,6,37,0.73,Evening,19,44,20,19,1,0
+QA Engineer,Junior,More than 1000,Hybrid,42,Weekly,2,0,Breathing Exercise,2,19,0.8,Afternoon,20,44,19,19,0,0
+Software Engineer,Mid-level,100-500,Remote,50,Rarely,3,0,Guided Meditation,2,7,0.75,Night,9,35,20,18,2,0
+Software Engineer,Mid-level,100-500,Hybrid,39,Weekly,7,0,Guided Meditation,1,33,0.66,Evening,22,35,19,17,2,0
+Designer,Mid-level,100-500,Remote,37,Daily,3,1,Journaling,2,31,0.78,Afternoon,17,34,18,17,1,0
+Software Engineer,Senior,100-500,In-office,53,Weekly,7,1,Focus Session,4,9,0.61,Evening,9,46,22,27,-5,0
+QA Engineer,Junior,500-1000,Remote,53,Never,9,0,Breathing Exercise,4,35,0.47,Evening,9,51,22,15,7,1
+QA Engineer,Junior,100-500,Hybrid,35,Monthly,4,0,Sleep Practice,6,26,0.3,Evening,5,36,18,13,5,1
+Product Manager,Senior,500-1000,Remote,31,Weekly,7,1,Journaling,2,39,0.69,Morning,7,30,18,17,1,0
+Software Engineer,Mid-level,500-1000,Remote,38,Weekly,9,0,Breathing Exercise,4,11,0.71,Afternoon,11,36,20,15,5,1
+Software Engineer,Senior,100-500,Hybrid,46,Never,8,0,Focus Session,3,10,0.98,Night,8,59,20,19,1,0
+Product Manager,Senior,26-100,In-office,57,Monthly,8,0,Sleep Practice,4,30,0.55,Evening,14,42,22,20,2,0
+Engineering Manager,Lead/Staff,100-500,Remote,46,Monthly,9,1,Breathing Exercise,4,5,0.58,Evening,2,43,21,25,-4,0
+DevOps,Senior,100-500,Remote,40,Rarely,5,1,Body Scan,2,23,0.44,Evening,10,37,20,18,2,0
+Software Engineer,Mid-level,100-500,Remote,48,Rarely,5,1,Journaling,2,11,0.35,Evening,21,51,21,20,1,0
+DevOps,Senior,26-100,Remote,46,Monthly,3,0,Guided Meditation,2,40,0.84,Morning,16,44,20,18,2,0
+Product Manager,Mid-level,1-25,Remote,35,Weekly,5,0,Breathing Exercise,3,16,0.47,Evening,16,38,17,10,7,1
+Designer,Mid-level,1-25,Hybrid,35,Daily,8,1,Sleep Practice,6,24,0.73,Morning,19,35,19,17,2,0
+Software Engineer,Lead/Staff,500-1000,Remote,35,Weekly,5,0,Sleep Practice,2,27,0.78,Evening,11,49,19,19,0,0
+Designer,Mid-level,500-1000,Remote,69,Monthly,4,1,Journaling,1,29,0.63,Evening,6,48,23,24,-1,0
+Product Manager,Lead/Staff,26-100,Hybrid,55,Rarely,8,1,Journaling,1,34,0.91,Morning,6,33,22,26,-4,0
+Engineering Manager,Lead/Staff,More than 1000,Remote,42,Daily,7,0,Sleep Practice,4,33,0.61,Evening,7,57,21,18,3,1
+Software Engineer,Lead/Staff,1-25,Remote,57,Daily,6,1,Sleep Practice,2,35,0.5,Afternoon,16,39,23,21,2,0
+DevOps,Manager,500-1000,Remote,42,Daily,5,0,Sleep Practice,2,22,0.93,Morning,13,23,19,18,1,0
+Engineering Manager,Mid-level,1-25,Hybrid,57,Weekly,5,1,Breathing Exercise,2,23,0.9,Afternoon,3,60,22,18,4,1
+Software Engineer,Mid-level,26-100,Remote,48,Rarely,2,0,Sleep Practice,3,8,0.41,Morning,9,44,20,16,4,1
+Engineering Manager,Senior,26-100,Hybrid,41,Weekly,4,0,Guided Meditation,3,5,0.32,Afternoon,3,49,19,18,1,0
+DevOps,Mid-level,More than 1000,Remote,53,Monthly,8,1,Sleep Practice,4,19,0.36,Afternoon,6,62,23,20,3,1
+Software Engineer,Senior,More than 1000,Hybrid,48,Rarely,8,1,Guided Meditation,2,12,0.5,Evening,17,35,19,11,8,1
+Software Engineer,Senior,26-100,Remote,51,Weekly,1,0,Breathing Exercise,3,19,0.98,Evening,3,50,21,22,-1,0
+DevOps,Senior,500-1000,Hybrid,49,Never,2,1,Journaling,1,19,0.69,Evening,2,57,19,16,3,1
+Software Engineer,Mid-level,1-25,In-office,49,Never,5,0,Guided Meditation,1,43,0.56,Morning,12,36,21,20,1,0
+Product Manager,Junior,100-500,Hybrid,54,Monthly,9,0,Breathing Exercise,3,26,0.92,Night,6,60,21,16,5,1
+Software Engineer,Mid-level,More than 1000,Remote,70,Monthly,7,0,Sleep Practice,2,22,0.62,Evening,10,31,26,28,-2,0
+DevOps,Junior,100-500,Remote,58,Daily,5,0,Breathing Exercise,3,20,0.52,Morning,11,44,22,20,2,0
+Software Engineer,Lead/Staff,500-1000,Remote,49,Never,1,0,Sleep Practice,1,6,0.96,Evening,16,34,20,21,-1,0
+QA Engineer,Mid-level,More than 1000,Remote,44,Never,6,0,Breathing Exercise,1,40,0.89,Morning,16,52,19,22,-3,0
+Engineering Manager,Junior,100-500,Remote,45,Never,8,0,Journaling,5,24,0.89,Evening,18,35,21,14,7,1
+Engineering Manager,Junior,500-1000,In-office,36,Never,7,0,Guided Meditation,3,20,0.66,Afternoon,22,39,18,17,1,0
+Designer,Senior,1-25,Remote,53,Never,2,0,Journaling,4,7,0.85,Afternoon,23,36,20,20,0,0
+Software Engineer,Senior,500-1000,Hybrid,38,Weekly,5,1,Body Scan,4,34,0.43,Night,9,33,20,20,0,0
