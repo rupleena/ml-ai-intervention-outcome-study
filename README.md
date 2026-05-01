@@ -28,9 +28,11 @@ The goal is practical: provide an evidence-informed baseline for recommending in
 ```
 ml-ai-intervention-outcome-study/
 ├── README.md                          ← This file
+├── data/
+│   └── intervention_response_tech.csv ← Dataset (1,200 rows, 19 features)
 ├── intervention_outcome_study.ipynb   ← Single final notebook (EDA + Modelling + Results)
-├── intervention_response_tech.csv     ← Dataset (1,200 rows, 19 features)
-└── capstone_final_report.docx         ← Full capstone report
+└── report/
+    └── intervention_report.pdf        ← Full capstone report
 ```
 
 ---
@@ -38,6 +40,7 @@ ml-ai-intervention-outcome-study/
 ## Notebook Overview
 
 📓 [`intervention_outcome_study.ipynb`](./intervention_outcome_study.ipynb)
+📄 [`report/intervention_report.pdf`](./report/intervention_report.pdf)
 
 The notebook is structured as a single end-to-end analysis across 12 sections:
 
@@ -60,7 +63,7 @@ The notebook is structured as a single end-to-end analysis across 12 sections:
 
 ## Dataset
 
-**File:** `intervention_response_tech.csv`
+**File:** `data/intervention_response_tech.csv`
 **Rows:** 1,200 | **Features:** 19 | **Target:** `stress_reduced` (binary: 1 = meaningful stress reduction, 0 = no meaningful reduction)
 
 **Target definition:** A reduction of ≥3 points on the DASS stress scale (pre vs post intervention) is treated as a meaningful clinical improvement. Positive class rate: ~38%.
